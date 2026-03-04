@@ -28,6 +28,6 @@ title: conll
 2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	happy	happy	ADJ	JJ	Degree=Pos	2	comp:pred	_	_
 4	about	about	ADP	IN	_	3	mod	_	_
-5	SUD	SUD	PROPN	DT	Number=Sing	4	comp:obj	_	SpaceAfter=No
+5	mSUD	mSUD	PROPN	DT	Number=Sing	4	comp:obj	_	SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	_	_
 </Conll>

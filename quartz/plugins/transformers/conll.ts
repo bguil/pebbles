@@ -43,14 +43,30 @@ export const Conll: QuartzTransformerPlugin = () => {
     },
     externalResources() {
       return {
-        css: [],
+        css: [
+          {
+            // TODO: this is related to Request component and should be declared somewhere else
+            content: "../static/css/prism.css",
+          },
+
+        ],
         js: [
           {
             src: "https://unpkg.com/reactive-dep-tree/dist/reactive-dep-tree.umd.js",
             loadTime: "afterDOMReady",
             contentType: "external",
-            async: "",
-            deferred: "",
+          },
+          {
+            // TODO: this is related to Request component and should be declared somewhere else
+            src: "../static/js/prism.js",
+            loadTime: "afterDOMReady",
+            contentType: "external",
+          },
+          {
+            // TODO: this is related to Request component and should be declared somewhere else
+            src: "../static/js/prism_grew.js",
+            loadTime: "afterDOMReady",
+            contentType: "external",
           },
         ],
       }

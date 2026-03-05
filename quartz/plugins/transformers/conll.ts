@@ -47,6 +47,7 @@ export const Conll: QuartzTransformerPlugin = () => {
           {
             // TODO: this is related to Request component and should be declared somewhere else
             content: "../static/css/prism.css",
+            spaPreserve: true,
           },
 
         ],
@@ -55,18 +56,21 @@ export const Conll: QuartzTransformerPlugin = () => {
             src: "https://unpkg.com/reactive-dep-tree/dist/reactive-dep-tree.umd.js",
             loadTime: "afterDOMReady",
             contentType: "external",
+            spaPreserve: true,
           },
           {
             // TODO: this is related to Request component and should be declared somewhere else
             src: "../static/js/prism.js",
             loadTime: "afterDOMReady",
             contentType: "external",
+            spaPreserve: true,
           },
           {
             // TODO: this is related to Request component and should be declared somewhere else
             src: "../static/js/prism_grew.js",
             loadTime: "afterDOMReady",
             contentType: "external",
+            spaPreserve: true,
           },
         ],
       }

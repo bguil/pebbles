@@ -45,7 +45,6 @@ export const Conll: QuartzTransformerPlugin = () => {
       return {
         css: [
           {
-            // TODO: this is related to Request component and should be declared somewhere else
             content: "../static/css/prism.css",
             spaPreserve: true,
           },
@@ -59,22 +58,26 @@ export const Conll: QuartzTransformerPlugin = () => {
             spaPreserve: true,
           },
           {
-            // TODO: this is related to Request component and should be declared somewhere else
             src: "../static/js/prism.js",
             loadTime: "afterDOMReady",
             contentType: "external",
             spaPreserve: true,
           },
           {
-            // TODO: this is related to Request component and should be declared somewhere else
             src: "../static/js/prism_grew.js",
             loadTime: "afterDOMReady",
             contentType: "external",
             spaPreserve: true,
           },
+          {
+            script: `document.addEventListener("nav", () => { if (window.Prism) window.Prism.highlightAll(); })`,
+            loadTime: "afterDOMReady",
+            contentType: "inline",
+            spaPreserve: true,
+          },
         ],
       }
-    }, 
+    },
   }
 }
 

@@ -2,24 +2,33 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const Request: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const request = fileData.frontmatter?.request
-  if (request) {
-    return (
-      <div>
+  const type = fileData.frontmatter?.type
+  if (type && (type === "valid" || type === "doc")) {
+    const request = fileData.frontmatter?.request
+    var badge = ""
+    switch(type) {
+      case "valid": badge = "Validation Pebble"; break;
+      case "doc": badge = "Documentation Pebble"; break;
+    } 
+    if (request) {
+      return (
+        <div>
+        <h3 class="badge">{badge}</h3>
         <pre>
-          <code class="language-grew">{request}</code>
+        <code class="language-grew">{request}</code>
         </pre>
-      </div>
-    )
-
-  } else {
-    return (
-      <div>
+        </div>
+      )
+      
+    } else {
+      return (
+        <div>
         <span class={classNames(displayClass, "warning-msg")}>
-          Invalid pebble: No request found in frontmatter
+        Invalid pebble: No request found in frontmatter
         </span>
-    </div>
-    )
+        </div>
+      )
+    }
   }
 }
 
@@ -33,6 +42,13 @@ Request.css = `
   color: #F00;
   font-size: x-large;
 }
+.badge {
+  background-color: #6ab2b5;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+} 
 `
 
 export default (() => Request) satisfies QuartzComponentConstructor

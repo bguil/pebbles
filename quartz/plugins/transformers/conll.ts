@@ -11,6 +11,7 @@ export const Conll: QuartzTransformerPlugin = () => {
           return (tree: Root) => {
             visit(tree, "element", (node: Element) => {
               if (node.tagName === "conll") {
+                const color = (node.properties.schema === "ud") ? "rgb(213, 232, 211)" : "#fdf8ed";
                 const content = node.children
                 .filter((child: any) => child.type === "text")
                 .map((child: any) => child.value)
@@ -19,7 +20,7 @@ export const Conll: QuartzTransformerPlugin = () => {
 
                 node.tagName = "div"
                 node.properties = {
-                  style: "background-color: #fdf8ed; border-radius: 10px; padding: 10px; margin: 15px 0;"
+                  style: `background-color: ${color}; border-radius: 10px; padding: 10px; margin: 15px 0;`
                 }
                 node.children = [
                   {
@@ -27,7 +28,7 @@ export const Conll: QuartzTransformerPlugin = () => {
                     tagName: "reactive-dep-tree",
                     properties: {
                       "shown-metas": "text_en,pinyin",
-                      "hidden-features": "MISC.highlight,MISC.SpaceAfter,XPOS",
+                      "hidden-features": "MISC.highlight,MISC.SpaceAfter,XPOS,MISC.AlignBegin,MISC.AlignEnd,MISC.wordform,MISC.Cxn,MISC.CxnElt",
                       "interactive": true,
                       "token-spacing": "20",
                       "conll": content
@@ -45,7 +46,7 @@ export const Conll: QuartzTransformerPlugin = () => {
       return {
         css: [
           {
-            content: "../static/css/prism.css",
+            content: "/static/css/prism.css",
             spaPreserve: true,
           },
 
@@ -58,13 +59,13 @@ export const Conll: QuartzTransformerPlugin = () => {
             spaPreserve: true,
           },
           {
-            src: "../static/js/prism.js",
+            src: "/static/js/prism.js",
             loadTime: "afterDOMReady",
             contentType: "external",
             spaPreserve: true,
           },
           {
-            src: "../static/js/prism_grew.js",
+            src: "/static/js/prism_grew.js",
             loadTime: "afterDOMReady",
             contentType: "external",
             spaPreserve: true,

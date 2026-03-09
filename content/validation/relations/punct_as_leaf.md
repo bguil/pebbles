@@ -11,7 +11,7 @@ level: error
 type: valid
 ---
 
-The `punct` deprel should end with a leaf, with a few exceptions for notation like *(…)* (see example aboce), where a `punct` can be followed by a `punct`. Any other relation is prohibited.
+The `punct` deprel should end with a leaf, with a few exceptions for notation like *(…)* (see example below), where a `punct` can be followed by a `punct`. Any other relation is prohibited.
 
 > **SUD_French-Sequoia**:
 

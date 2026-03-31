@@ -1,7 +1,7 @@
 ---
 title: Disfluency
 scope:
-  - schema: SUD
+  schema: SUD
 type: construction
 tags: 
  - coordinating-conjunction

@@ -4,7 +4,7 @@ request: |
   pattern { ANCHOR [form="__0__"] }
   without { ANCHOR -[1=root]-> X }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

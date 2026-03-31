@@ -2,7 +2,7 @@
 title:  conj
 request: pattern { X -[1=conj]-> Y }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - coordinating-conjunction
@@ -25,4 +25,4 @@ In **SUD**, the basic `conj` relation is three different subtypes:
 In the three case, the relation relates the first conjunct to the second one, the conjunction itself [`upos=CCONJ`](../upos/upos_CCONJ) is attached to the second conjunct with the relation [`cc`](cc). 
 
 > [!tips]
-> See also a global view of `conj` usage in the last release (2.17) in this [table](http://tables.grew.fr/?data=sud_deps/conj).
+> See also a global view of `conj` usage in the last release (2.17) in this [table](https://tables.grew.fr/?data=sud_deps/conj).

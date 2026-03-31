@@ -3,7 +3,7 @@ title: comp:aux governor
 request: |
   pattern { X -[1=comp,2=aux]-> Y; X [upos <> AUX] }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

@@ -2,7 +2,7 @@
 title:  conj:coord
 request: pattern { X -[1=conj, 2=coord]-> Y }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - coordinating-conjunction

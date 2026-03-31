@@ -2,7 +2,7 @@
 title: upos CCONJ
 request: pattern { X[upos = CCONJ] }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - coordinating-conjunction

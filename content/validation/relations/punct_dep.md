@@ -3,7 +3,7 @@ title: punct dependent
 request: |
   pattern { X -[punct]-> Y; Y [upos <> PUNCT] }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

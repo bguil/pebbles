@@ -4,7 +4,7 @@ request: |
   pattern { X -[subj]-> Y; X[upos <> VERB|AUX] }
   without { X[ExtPos=VERB|AUX] }
 scope:
-  - schema: SUD
+  schema: SUD
 level: warning
 type: valid
 ---

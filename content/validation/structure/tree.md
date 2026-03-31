@@ -2,7 +2,7 @@
 title: Tree stucture
 request: pattern { global.is_not_tree }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

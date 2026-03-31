@@ -2,7 +2,7 @@
 title:  Shared
 request: pattern { X [Shared] }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - coordinating-conjunction

@@ -2,7 +2,7 @@
 title:  cc
 request: pattern { X -[1=cc]-> Y }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - coordinating-conjunction

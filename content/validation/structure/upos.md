@@ -2,7 +2,7 @@
 title: upos required
 request: pattern { X[form <> "__0__", !upos] }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

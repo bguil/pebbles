@@ -6,7 +6,7 @@ request: |
     Y -[^punct]-> Z   %  It must be a leaf (except with another punct deprel) 
   }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

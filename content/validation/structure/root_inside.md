@@ -2,11 +2,11 @@
 title: Root inside
 request: |
   pattern { 
-    X[form <> "__O__"];
+    X[form <> "__0__"];
     X -[1=root]-> Y;
   }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

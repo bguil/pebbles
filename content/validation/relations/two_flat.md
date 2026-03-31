@@ -3,7 +3,7 @@ title: Two flat
 request: |
   pattern { X -[1=flat]-> X1; X -[1=flat]-> X2; X1 << X2; }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

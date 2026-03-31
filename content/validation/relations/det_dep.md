@@ -4,7 +4,7 @@ request: |
   pattern { X -[1=det]-> Y; Y [upos <> DET|NUM] }
   without { Y [ExtPos=DET|NUM] }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

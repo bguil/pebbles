@@ -2,7 +2,7 @@
 title: "@emb"
 request: pattern { X -[deep=emb]-> Y }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - coordinating-conjunction

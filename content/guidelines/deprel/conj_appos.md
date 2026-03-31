@@ -2,7 +2,7 @@
 title:  conj:appos
 request: pattern { X -[1=conj, 2=appos]-> Y }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - apposition

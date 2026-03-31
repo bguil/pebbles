@@ -2,7 +2,7 @@
 title:  conj:dicto
 request: pattern { X -[1=conj, 2=dicto]-> Y }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - spoken

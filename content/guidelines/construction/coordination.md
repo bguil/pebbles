@@ -1,14 +1,14 @@
 ---
 title: Coordination
 scope:
-  - schema: SUD
+  schema: SUD
 type: construction
 tags: 
  - coordinating-conjunction
 ---
 
 
-In SUD, the dependency relation between conjucts or a coordination is [`conj:coord`](guidelines/deprel/conj_coord).
+In SUD, the dependency relation between conjuncts or a coordination is [`conj:coord`](guidelines/deprel/conj_coord).
 
 ## Chained conjuncts
 In SUD, when a coordination concerns more than two conjuncts, each conjunct is attached to the head of the previous one in a chain.

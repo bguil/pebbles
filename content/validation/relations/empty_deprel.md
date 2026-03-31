@@ -3,7 +3,7 @@ title: Empty deprel
 request: |
   pattern { X -[!1]-> Y }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

@@ -2,7 +2,7 @@
 title: "@scrap"
 request: pattern { X -[deep=scrap]-> Y }
 scope:
-  - schema: SUD
+  schema: SUD
 type: doc
 tags: 
  - deep-feature

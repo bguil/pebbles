@@ -5,7 +5,7 @@ request: |
   without { X -[subj@expl]-> X1}
   without { X -[subj@expl]-> X2}
 scope:
-  - schema: SUD
+  schema: SUD
 level: warning
 type: valid
 ---

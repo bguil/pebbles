@@ -7,7 +7,7 @@ request: |
     ANCHOR -[1=root]-> X2;
   }
 scope:
-  - schema: SUD
+  schema: SUD
 level: error
 type: valid
 ---

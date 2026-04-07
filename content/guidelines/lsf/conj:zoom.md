@@ -3,6 +3,7 @@ title:  conj:zoom
 request: pattern { X -[conj:zoom]-> Y }
 scope:
   schema: SUD
+  lang: fsl
 type: doc
 tags: 
  - deprel

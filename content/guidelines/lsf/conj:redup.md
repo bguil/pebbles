@@ -11,7 +11,7 @@ tags:
 
 The deprel `conj:redup` is used for dependency relation between two identical elements, realized without disfluency.
 
-<conllu>
+<conll>
 # user_id = lg565
 # timestamp = 1775556623383
 # sent_id = trajet-len-1-signerA_4
@@ -28,4 +28,4 @@ The deprel `conj:redup` is used for dependency relation between two identical el
 7	[VINGT]	_	NUM	_	_	6	comp:obj	_	AlignBegin=39646|AlignEnd=39882|Gloss=[TWENTY]
 8	[SEPT]	_	NUM	_	_	7	flat:num	_	AlignBegin=39898|AlignEnd=40323|Gloss=[SEVEN]
 9	[BUS]	_	NOUN	_	_	5	conj:redup	_	AlignBegin=40339|AlignEnd=40961|Gloss=[BUS]
-</conllu>
+</conll>

@@ -11,7 +11,7 @@ tags:
 
 The deprel `conj:illustrate` is used for dependency relation the two elements refer to the same semantic entity and one uses a more iconic process than the other, or one that can be localized in space. It contributes to the visual representation of the discourse.
 
-<conllu>
+<conll>
 # user_id = lg565
 # timestamp = 1775140815075
 # sent_id = vacances-sud_15
@@ -23,4 +23,4 @@ The deprel `conj:illustrate` is used for dependency relation the two elements re
 2	[PEU]	_	ADV	_	ExtPos=VERB	0	root	_	AlignBegin=105991|AlignEnd=106787|Exp[lex]=Intensité|Gloss=[LITTLE]
 3	[prm:personne]	_	NOUN	_	_	2	conj:illustrate	_	AlignBegin=106791|AlignEnd=108683|Exp[ctxt]=Intensité|Gloss=[prm:person]|Rep=4|TransfertType=Situation|TwoH=Yes
 
-</conllu>
+</conll>

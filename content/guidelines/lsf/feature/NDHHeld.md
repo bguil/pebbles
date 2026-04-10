@@ -11,7 +11,7 @@ tags:
 
 NDHHeld stands for Non-Dominant Hand Held. It describs the fact of holding the element of the non-dominant hand/the nature of the element held?
 
-<conllu>
+<conll>
 # user_id = lg565
 # timestamp = 1775564604946
 # sent_id = vacances-sud_1
@@ -30,4 +30,4 @@ NDHHeld stands for Non-Dominant Hand Held. It describs the fact of holding the e
 9	[SUD]	_	NOUN	_	_	7	udep	_	AlignBegin=8490|AlignEnd=9205|Gloss=[SOUTH]|NDHHeld=prm:carte
 10	[région-sud]	_	PRON	_	_	9	conj:illustrate	_	AlignBegin=9235|AlignEnd=10548|Gloss=[south-region]|NDHHeld=prm:carte
 11	mains-jointes	_	PUNCT	_	_	5	punct	_	AlignBegin=10574|AlignEnd=11065|Gloss=clasped-hands
-</conllu>
+</conll>

@@ -11,7 +11,7 @@ tags:
 
 The deprel `conj:zoom` is used for dependency relation in which the second element is describing the referent more in details.
 
-<conllu>
+<conll>
 # user_id = lg565
 # timestamp = 1775139976368
 # sent_id = vacances-sud_4
@@ -27,4 +27,4 @@ The deprel `conj:zoom` is used for dependency relation in which the second eleme
 6	[MANGER]	_	VERB	_	_	5	conj:coord	_	AlignBegin=35787|AlignEnd=37657|Exp[ctxt]=Intensité|Gloss=[EAT]
 7	[BAVARDER]	_	VERB	_	_	6	conj:coord	_	AlignBegin=37681|AlignEnd=38449|Gloss=[CHAT]
 8	[ÉCHANGER]	_	VERB	_	_	7	conj:coord	_	AlignBegin=38468|AlignEnd=39542|Gloss=[EXCHANGE]
-</conllu>
+</conll>

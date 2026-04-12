@@ -17,7 +17,7 @@ The deprel `conj:zoom` is used for dependency relation in which the second eleme
 # sent_id = vacances-sud_4
 # text = PNT [PASSÉ-PROCHE] [DIMANCHE]-[AVANT] [FAMILLE] [RÉUNIR] [MANGER] [BAVARDER] [ÉCHANGER]
 # source_file = ./recit-agnieska.mp4
-# traduction_fr = Dimanche dernier, toute la famille s’est réunie pour prendre un bon repas, bavarder et échanger.
+# text_fr = Dimanche dernier, toute la famille s’est réunie pour prendre un bon repas, bavarder et échanger.
 # text_en = Last sunday, all the family gathers to have a good meal, chat and exchange.
 1	PNT	_	PRON	_	_	5	discourse	_	AlignBegin=31435|AlignEnd=31917|Gloss=PNT|Tgt=PSSN|wordform=[pnt]
 2	[PASSÉ-PROCHE]	_	ADV	_	_	5	mod	_	AlignBegin=31954|AlignEnd=32634|Gloss=[RECENT-PAST]

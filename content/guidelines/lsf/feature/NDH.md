@@ -17,7 +17,7 @@ NDH stands for Non-Dominant Hand. This feature is used when a different semantic
 # sent_id = vacances-sud_24
 # text = [RENTRER] [EAU] [avancer] [marcher-difficilement] [rochers-dans-les-pieds] [marcher-difficilement] [NAGER] [AGRÉABLE]
 # source_file = ./recit-agnieska.mp4
-# traduction_fr = d’ailleurs quand on rentrait dans l’eau ça faisait mal aux pieds, puis une fois dans l’eau, on nageait et ça allait mieux.
+# text_fr = d’ailleurs quand on rentrait dans l’eau ça faisait mal aux pieds, puis une fois dans l’eau, on nageait et ça allait mieux.
 # text_en = when we enter in the water it hurts the feet, but once in the water, we swim and it is better.
 1	[RENTRER]	_	VERB	_	_	0	root	_	AlignBegin=140278|AlignEnd=140835|Gloss=[ENTER]|NDH=bord
 2	[EAU]	_	NOUN	_	_	1	conj:obl	_	AlignBegin=140835|AlignEnd=141157|Gloss=[WATER]|NDHHeld=bord

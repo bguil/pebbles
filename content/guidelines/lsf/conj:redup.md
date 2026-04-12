@@ -17,7 +17,7 @@ The deprel `conj:redup` is used for dependency relation between two identical el
 # sent_id = trajet-len-1-signerA_4
 # text = [OUI] [À-CÔTÉ] [LA?] [DESCENDRE] [BUS] [NUMÉRO] [VINGT] [SEPT] [BUS]
 # source_file = ./Trajet_LEN_1.mp4
-# traduction_fr = Oui, à côté, là. Je descends du métro et je prends le bus numéro 27, le bus.
+# text_fr = Oui, à côté, là. Je descends du métro et je prends le bus numéro 27, le bus.
 # text_en = Yes, next by, here. I get out of the metro and I take the bus number 27.
 1	[OUI]	_	INTJ	_	_	4	discourse	_	AlignBegin=35598|AlignEnd=36110|Gloss=[YES]
 2	[À-CÔTÉ]	_	ADV	_	_	4	mod	_	AlignBegin=36157|AlignEnd=36717|Gloss=[NEXT-TO]

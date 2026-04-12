@@ -27,7 +27,7 @@ export const Conll: QuartzTransformerPlugin = () => {
                     type: "element",
                     tagName: "reactive-dep-tree",
                     properties: {
-                      "shown-metas": "text_en,pinyin",
+                      "shown-metas": "text_fr,text_en,pinyin",
                       "hidden-features": "MISC.highlight,MISC.SpaceAfter,XPOS,MISC.AlignBegin,MISC.AlignEnd,MISC.wordform,MISC.Cxn,MISC.CxnElt",
                       "interactive": true,
                       "token-spacing": "20",

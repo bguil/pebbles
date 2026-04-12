@@ -17,7 +17,7 @@ The deprel `conj:illustrate` is used for dependency relation the two elements re
 # sent_id = vacances-sud_15
 # text = [PERSONNE] [PEU] [prm:personne]
 # source_file = ./recit-agnieska.mp4
-# traduction_fr = (et surtout) très peu de monde.
+# text_fr = (et surtout) très peu de monde.
 # text_en = (and especially) very little people.
 1	[PERSONNE]	_	NOUN	_	_	2	subj	_	AlignBegin=105470|AlignEnd=105978|Gloss=[PERSON]
 2	[PEU]	_	ADV	_	ExtPos=VERB	0	root	_	AlignBegin=105991|AlignEnd=106787|Exp[lex]=Intensité|Gloss=[LITTLE]

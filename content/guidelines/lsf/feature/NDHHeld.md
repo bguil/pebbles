@@ -17,7 +17,7 @@ NDHHeld stands for Non-Dominant Hand Held. It describs the fact of holding the e
 # sent_id = vacances-sud_1
 # text = [PASSÉ-PROCHE] [VACANCES] [ÉTÉ] [euh] [PARTIR] [OÙ] [FRANCE] [carte-france] [SUD] [région-sud] mains-jointes
 # source_file = ./recit-agnieska.mp4
-# traduction_fr = Les dernières vacances d’été, on est partis dans le sud de la France.
+# text_fr = Les dernières vacances d’été, on est partis dans le sud de la France.
 # text_en = Last summer holidays, we went to the south of France.
 1	[PASSÉ-PROCHE]	_	ADV	_	_	5	mod	_	AlignBegin=2248|AlignEnd=2717|Gloss=[RECENT-PAST]
 2	[VACANCES]	_	NOUN	_	ExtPos=ADV	1	conj:zoom	_	AlignBegin=2723|AlignEnd=3166|Gloss=[HOLIDAYS]

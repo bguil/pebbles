@@ -1,4 +1,5 @@
 ---
+title: Discontinuous idiom
 request: |
   pattern { e: M -> N; N [InIdiom]; X[!InIdiom, !Idiom]; X << e }
 scope:

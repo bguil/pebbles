@@ -1,4 +1,5 @@
 ---
+title: Isolated InIndiom
 request: |
   pattern { M -> N; N[InIdiom=Yes] }
   without { M[InIdiom=Yes] }

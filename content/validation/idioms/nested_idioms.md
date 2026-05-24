@@ -1,10 +1,11 @@
 ---
+title: Nested idioms
 request: |
-  pattern { N[Idiom=Yes, !ExtPos]; }
+  pattern { M -> N; M [InIdiom]; N [Idiom]; }
 scope:
   schema: SUD
 level: error
 type: valid
 ---
 
-There is no `ExtPos` feature on the head of an idiom.
+An `Idiom` depends of an `InIdiom` (nested idiom are not allowed).

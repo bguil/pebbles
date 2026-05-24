@@ -1,4 +1,5 @@
 ---
+title: Missing InIdiom
 request: |
   pattern { N [Idiom=Yes] }
   without { N -> M; M [InIdiom=Yes]}

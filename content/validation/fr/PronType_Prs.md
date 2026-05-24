@@ -1,5 +1,5 @@
 ---
-title: lemma for PronType=Prs
+title: Lemmatisation for PronType=Prs
 request: |
   pattern { X [upos=PRON,PronType=Prs, !Typo] }
   without { X[form=/-?en/i, lemma="en"]} 
@@ -54,6 +54,8 @@ scope:
 level: error
 type: valid
 ---
+
+This validation pebble list all known `form` of personal pronouns in French.
 
 > [!info] See also
 > - [SUD#33](https://github.com/surfacesyntacticud/guidelines/issues/33)

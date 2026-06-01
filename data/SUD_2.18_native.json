@@ -1,0 +1,192 @@
+[
+  {
+    "id": "SUD_Beja-Autogramm@2.18",
+    "schema": "SUD",
+    "lang": "bej",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Beja-Autogramm",
+    "parallels": [
+      "UD_Beja-Autogramm@2.18",
+      "mSUD_Beja-Autogramm@2.18"
+    ],
+    "audio": true
+  },
+  {
+    "id": "SUD_Bokota-ChibErgIS@2.18",
+    "schema": "SUD",
+    "lang": "sab",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Bokota-ChibErgIS",
+    "parallels": [
+      "UD_Bokota-ChibErgIS@2.18",
+      "mSUD_Bokota-ChibErgIS@2.18"
+    ],
+   "audio": true
+  },
+  {
+    "id": "SUD_Chinese-Beginner@2.18",
+    "schema": "SUD",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chinese-Beginner",
+    "parallels": [
+      "UD_Chinese-Beginner@2.18",
+      "mSUD_Chinese-Beginner@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Chinese-PatentChar@2.18",
+    "schema": "SUD",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chinese-PatentChar",
+    "parallels": [
+      "UD_Chinese-PatentChar@2.18",
+      "mSUD_Chinese-PatentChar@2.18"
+    ]
+  },
+  {
+    "id": "SUD_French-GSD@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-GSD",
+    "parallels": [
+      "UD_French-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_French-ParisStories@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-ParisStories",
+    "parallels": [
+      "UD_French-ParisStories@2.18"
+    ],
+    "audio": true
+  },
+  {
+    "id": "SUD_French-Rhapsodie@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-Rhapsodie",
+    "parallels": [
+      "UD_French-Rhapsodie@2.18"
+    ],
+   "audio": true
+  },
+  {
+    "id": "SUD_French-Sequoia@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-Sequoia",
+    "parallels": [
+      "UD_French-Sequoia@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Haitian_Creole-Autogramm@2.18",
+    "schema": "SUD",
+    "lang": "ht",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Haitian_Creole-Autogramm",
+    "parallels": [
+      "UD_Haitian_Creole-Autogramm@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Hausa-EasternAutogramm@2.18",
+    "schema": "SUD",
+    "lang": "ha",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hausa-NorthernAutogramm",
+    "parallels": [
+      "UD_Hausa-EasternAutogramm@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Hausa-NorthernAutogramm@2.18",
+    "schema": "SUD",
+    "lang": "ha",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hausa-NorthernAutogramm",
+    "parallels": [
+      "UD_Hausa-NorthernAutogramm@2.18"
+    ],
+   "audio": true
+  },
+  {
+    "id": "SUD_Hausa-SouthernAutogramm@2.18",
+    "schema": "SUD",
+    "lang": "ha",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hausa-SouthernAutogramm",
+    "parallels": [
+      "UD_Hausa-SouthernAutogramm@2.18"
+    ],
+   "audio": true
+  },
+  {
+    "id": "SUD_Hausa-WesternAutogramm@2.18",
+    "schema": "SUD",
+    "lang": "ha",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hausa-WesternAutogramm",
+    "parallels": [
+      "UD_Hausa-WesternAutogramm@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ika-ChibErgIS@2.18",
+    "schema": "SUD",
+    "lang": "arh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ika-ChibErgIS",
+    "parallels": [
+      "UD_Ika-ChibErgIS@2.18",
+      "mSUD_Ika-ChibErgIS@2.18"
+    ],
+   "audio": true
+  },
+  {
+    "id": "SUD_Naija-NSC@2.18",
+    "schema": "SUD",
+    "lang": "pcm",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Naija-NSC",
+    "parallels": [
+      "UD_Naija-NSC@2.18"
+    ],
+    "audio": true
+  },
+  {
+    "id": "SUD_Nenets-Tundra@2.18",
+    "schema": "SUD",
+    "lang": "yrk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Nenets-Tundra",
+    "parallels": [
+      "UD_Nenets-Tundra@2.18",
+      "mSUD_Nenets-Tundra@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Northwest_Gbaya-Autogramm@2.18",
+    "schema": "SUD",
+    "lang": "gya",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Northwest_Gbaya-Autogramm",
+    "parallels": [
+      "UD_Northwest_Gbaya-Autogramm@2.18",
+      "mSUD_Northwest_Gbaya-Autogramm@2.18"
+    ],
+    "audio": true
+  },
+  {
+    "id": "SUD_Pesh-ChibErgIS@2.18",
+    "schema": "SUD",
+    "lang": "pay",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Pesh-ChibErgIS",
+    "parallels": [
+      "UD_Pesh-ChibErgIS@2.18",
+      "mSUD_Pesh-ChibErgIS@2.18"
+    ],
+   "audio": true
+  },
+  {
+    "id": "SUD_Zaar-Autogramm@2.18",
+    "schema": "SUD",
+    "lang": "say",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Zaar-Autogramm",
+    "parallels": [
+      "UD_Zaar-Autogramm@2.18"
+    ],
+    "audio": true
+  }
+]

@@ -3,7 +3,8 @@ title: upos values
 request: |-
   pattern { N [upos <> ADJ|ADP|ADV|AUX|CCONJ|DET|INTJ|NOUN|NUM|PART|PRON|PROPN|PUNCT|SCONJ|SYM|VERB|X | IDEO] }
 scope:
-  schema: SUD
+  schema: ["pSUD", "mSUD"]
+  lang: ["fr", "ha"]
 level: error
 type: valid
 ---

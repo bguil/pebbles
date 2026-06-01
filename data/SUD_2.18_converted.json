@@ -1,0 +1,3071 @@
+[
+  {
+    "id": "SUD_Abaza-ATB@2.18",
+    "schema": "SUD",
+    "lang": "abq",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Abaza-ATB",
+    "parallels": [
+      "UD_Abaza-ATB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Abkhaz-AbNC@2.18",
+    "schema": "SUD",
+    "lang": "ab",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Abkhaz-AbNC",
+    "parallels": [
+      "UD_Abkhaz-AbNC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Afrikaans-AfriBooms@2.18",
+    "schema": "SUD",
+    "lang": "af",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Afrikaans-AfriBooms",
+    "parallels": [
+      "UD_Afrikaans-AfriBooms@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Akkadian-PISANDUB@2.18",
+    "schema": "SUD",
+    "lang": "akk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Akkadian-PISANDUB",
+    "parallels": [
+      "UD_Akkadian-PISANDUB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Akkadian-RIAO@2.18",
+    "schema": "SUD",
+    "lang": "akk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Akkadian-RIAO",
+    "parallels": [
+      "UD_Akkadian-RIAO@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Akuntsu-TuDeT@2.18",
+    "schema": "SUD",
+    "lang": "aqz",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Akuntsu-TuDeT",
+    "parallels": [
+      "UD_Akuntsu-TuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Albanian-STAF@2.18",
+    "schema": "SUD",
+    "lang": "sq",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Albanian-STAF",
+    "parallels": [
+      "UD_Albanian-STAF@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Albanian-TSA@2.18",
+    "schema": "SUD",
+    "lang": "sq",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Albanian-TSA",
+    "parallels": [
+      "UD_Albanian-TSA@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Alemannic-DIVITAL@2.18",
+    "schema": "SUD",
+    "lang": "gsw",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Alemannic-DIVITAL",
+    "parallels": [
+      "UD_Alemannic-DIVITAL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Alemannic-UZH@2.18",
+    "schema": "SUD",
+    "lang": "gsw",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Alemannic-UZH",
+    "parallels": [
+      "UD_Alemannic-UZH@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Amharic-ATT@2.18",
+    "schema": "SUD",
+    "lang": "am",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Amharic-ATT",
+    "parallels": [
+      "UD_Amharic-ATT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ancient_Greek-Perseus@2.18",
+    "schema": "SUD",
+    "lang": "grc",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ancient_Greek-Perseus",
+    "parallels": [
+      "UD_Ancient_Greek-Perseus@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ancient_Greek-PROIEL@2.18",
+    "schema": "SUD",
+    "lang": "grc",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ancient_Greek-PROIEL",
+    "parallels": [
+      "UD_Ancient_Greek-PROIEL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ancient_Greek-PTNK@2.18",
+    "schema": "SUD",
+    "lang": "grc",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ancient_Greek-PTNK",
+    "parallels": [
+      "UD_Ancient_Greek-PTNK@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ancient_Hebrew-PTNK@2.18",
+    "schema": "SUD",
+    "lang": "hbo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ancient_Hebrew-PTNK",
+    "parallels": [
+      "UD_Ancient_Hebrew-PTNK@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Apurina-UFPA@2.18",
+    "schema": "SUD",
+    "lang": "apu",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Apurina-UFPA",
+    "parallels": [
+      "UD_Apurina-UFPA@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Arabic-NYUAD@2.18",
+    "schema": "SUD",
+    "lang": "ar",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Arabic-NYUAD",
+    "parallels": [
+      "UD_Arabic-NYUAD@2.18"
+    ],
+    "no_word": true,
+    "rtl": true
+  },
+  {
+    "id": "SUD_Arabic-PADT@2.18",
+    "schema": "SUD",
+    "lang": "ar",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Arabic-PADT",
+    "parallels": [
+      "UD_Arabic-PADT@2.18"
+    ],
+    "enhanced": true,
+    "rtl": true
+  },
+  {
+    "id": "SUD_Arabic-PUD@2.18",
+    "schema": "SUD",
+    "lang": "ar",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Arabic-PUD",
+    "parallels": [
+      "UD_Arabic-PUD@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Armenian-ArmTDP@2.18",
+    "schema": "SUD",
+    "lang": "hy",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Armenian-ArmTDP",
+    "parallels": [
+      "UD_Armenian-ArmTDP@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Armenian-BSUT@2.18",
+    "schema": "SUD",
+    "lang": "hy",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Armenian-BSUT",
+    "parallels": [
+      "UD_Armenian-BSUT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Assamese-AiW@2.18",
+    "schema": "SUD",
+    "lang": "as",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Assamese-AiW",
+    "parallels": [
+      "UD_Assamese-AiW@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Assyrian-AS@2.18",
+    "schema": "SUD",
+    "lang": "aii",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Assyrian-AS",
+    "parallels": [
+      "UD_Assyrian-AS@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Azerbaijani-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "az",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Azerbaijani-TueCL",
+    "parallels": [
+      "UD_Azerbaijani-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Bambara-CRB@2.18",
+    "schema": "SUD",
+    "lang": "bm",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Bambara-CRB",
+    "parallels": [
+      "UD_Bambara-CRB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Basque-BDT@2.18",
+    "schema": "SUD",
+    "lang": "eu",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Basque-BDT",
+    "parallels": [
+      "UD_Basque-BDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Bavarian-MaiBaam@2.18",
+    "schema": "SUD",
+    "lang": "bar",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Bavarian-MaiBaam",
+    "parallels": [
+      "UD_Bavarian-MaiBaam@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Belarusian-HSE@2.18",
+    "schema": "SUD",
+    "lang": "be",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Belarusian-HSE",
+    "parallels": [
+      "UD_Belarusian-HSE@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Bengali-BRU@2.18",
+    "schema": "SUD",
+    "lang": "bn",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Bengali-BRU",
+    "parallels": [
+      "UD_Bengali-BRU@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Bhojpuri-BHTB@2.18",
+    "schema": "SUD",
+    "lang": "bho",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Bhojpuri-BHTB",
+    "parallels": [
+      "UD_Bhojpuri-BHTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Bororo-BDT@2.18",
+    "schema": "SUD",
+    "lang": "bor",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Bororo-BDT",
+    "parallels": [
+      "UD_Bororo-BDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Brahui-Kholum@2.18",
+    "schema": "SUD",
+    "lang": "brh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Brahui-Kholum",
+    "parallels": [
+      "UD_Brahui-Kholum@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Breton-KEB@2.18",
+    "schema": "SUD",
+    "lang": "br",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Breton-KEB",
+    "parallels": [
+      "UD_Breton-KEB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Bulgarian-BTB@2.18",
+    "schema": "SUD",
+    "lang": "bg",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Bulgarian-BTB",
+    "parallels": [
+      "UD_Bulgarian-BTB@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Buryat-BDT@2.18",
+    "schema": "SUD",
+    "lang": "bxr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Buryat-BDT",
+    "parallels": [
+      "UD_Buryat-BDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Cantonese-HK@2.18",
+    "schema": "SUD",
+    "lang": "yue",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Cantonese-HK",
+    "parallels": [
+      "UD_Cantonese-HK@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Cappadocian-AMGiC@2.18",
+    "schema": "SUD",
+    "lang": "cpg",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Cappadocian-AMGiC",
+    "parallels": [
+      "UD_Cappadocian-AMGiC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Cappadocian-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "cpg",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Cappadocian-TueCL",
+    "parallels": [
+      "UD_Cappadocian-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Catalan-AnCora@2.18",
+    "schema": "SUD",
+    "lang": "ca",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Catalan-AnCora",
+    "parallels": [
+      "UD_Catalan-AnCora@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Cebuano-GJA@2.18",
+    "schema": "SUD",
+    "lang": "ceb",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Cebuano-GJA",
+    "parallels": [
+      "UD_Cebuano-GJA@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Central_Kurdish-Mukri@2.18",
+    "schema": "SUD",
+    "lang": "ckb",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Central_Kurdish-Mukri",
+    "parallels": [
+      "UD_Central_Kurdish-Mukri@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Chinese-CFL@2.18",
+    "schema": "SUD",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chinese-CFL",
+    "parallels": [
+      "UD_Chinese-CFL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Chinese-GSD@2.18",
+    "schema": "SUD",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chinese-GSD",
+    "parallels": [
+      "UD_Chinese-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Chinese-GSDSimp@2.18",
+    "schema": "SUD",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chinese-GSDSimp",
+    "parallels": [
+      "UD_Chinese-GSDSimp@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Chinese-HK@2.18",
+    "schema": "SUD",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chinese-HK",
+    "parallels": [
+      "UD_Chinese-HK@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Chinese-PUD@2.18",
+    "schema": "SUD",
+    "lang": "zh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chinese-PUD",
+    "parallels": [
+      "UD_Chinese-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Chintang-CTNTB@2.18",
+    "schema": "SUD",
+    "lang": "ctn",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chintang-CTNTB",
+    "parallels": [
+      "UD_Chintang-CTNTB@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Chukchi-HSE@2.18",
+    "schema": "SUD",
+    "lang": "ckt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Chukchi-HSE",
+    "parallels": [
+      "UD_Chukchi-HSE@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Classical_Armenian-CAVaL@2.18",
+    "schema": "SUD",
+    "lang": "xcl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Classical_Armenian-CAVaL",
+    "parallels": [
+      "UD_Classical_Armenian-CAVaL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Classical_Chinese-Kyoto@2.18",
+    "schema": "SUD",
+    "lang": "lzh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Classical_Chinese-Kyoto",
+    "parallels": [
+      "UD_Classical_Chinese-Kyoto@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Classical_Chinese-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "lzh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Classical_Chinese-TueCL",
+    "parallels": [
+      "UD_Classical_Chinese-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Coptic-Bohairic@2.18",
+    "schema": "SUD",
+    "lang": "cop",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Coptic-Bohairic",
+    "parallels": [
+      "UD_Coptic-Bohairic@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Coptic-Scriptorium@2.18",
+    "schema": "SUD",
+    "lang": "cop",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Coptic-Scriptorium",
+    "parallels": [
+      "UD_Coptic-Scriptorium@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Croatian-SET@2.18",
+    "schema": "SUD",
+    "lang": "hr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Croatian-SET",
+    "parallels": [
+      "UD_Croatian-SET@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Czech-CAC@2.18",
+    "schema": "SUD",
+    "lang": "cs",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-CAC",
+    "parallels": [
+      "UD_Czech-CAC@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Czech-CLTT@2.18",
+    "schema": "SUD",
+    "lang": "cs",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-CLTT",
+    "parallels": [
+      "UD_Czech-CLTT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Czech-FicTree@2.18",
+    "schema": "SUD",
+    "lang": "cs",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-FicTree",
+    "parallels": [
+      "UD_Czech-FicTree@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Czech-PDTC@2.18",
+    "schema": "SUD",
+    "lang": "cs",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-PDTC",
+    "parallels": [
+      "UD_Czech-PDTC@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Czech-Poetry@2.18",
+    "schema": "SUD",
+    "lang": "cs",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-Poetry",
+    "parallels": [
+      "UD_Czech-Poetry@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Czech-PUD@2.18",
+    "schema": "SUD",
+    "lang": "cs",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Czech-PUD",
+    "parallels": [
+      "UD_Czech-PUD@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Danish-DDT@2.18",
+    "schema": "SUD",
+    "lang": "da",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Danish-DDT",
+    "parallels": [
+      "UD_Danish-DDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Dutch-Alpino@2.18",
+    "schema": "SUD",
+    "lang": "nl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Dutch-Alpino",
+    "parallels": [
+      "UD_Dutch-Alpino@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Dutch-LassySmall@2.18",
+    "schema": "SUD",
+    "lang": "nl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Dutch-LassySmall",
+    "parallels": [
+      "UD_Dutch-LassySmall@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Egyptian-PC@2.18",
+    "schema": "SUD",
+    "lang": "egy",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Egyptian-PC",
+    "parallels": [
+      "UD_Egyptian-PC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_English-Atis@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-Atis",
+    "parallels": [
+      "UD_English-Atis@2.18"
+    ]
+  },
+  {
+    "id": "SUD_English-CHILDES@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-CHILDES",
+    "parallels": [
+      "UD_English-CHILDES@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_English-CTeTex@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-CTeTex",
+    "parallels": [
+      "UD_English-CTeTex@2.18"
+    ]
+  },
+  {
+    "id": "SUD_English-ESLSpok@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-ESLSpok",
+    "parallels": [
+      "UD_English-ESLSpok@2.18"
+    ]
+  },
+  {
+    "id": "SUD_English-EWT@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-EWT",
+    "parallels": [
+      "UD_English-EWT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_English-GENTLE@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-GENTLE",
+    "parallels": [
+      "UD_English-GENTLE@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_English-GUM@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-GUM",
+    "parallels": [
+      "UD_English-GUM@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_English-GUMReddit@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-GUMReddit",
+    "parallels": [
+      "UD_English-GUMReddit@2.18"
+    ],
+    "enhanced": true,
+    "no_word": true
+  },
+  {
+    "id": "SUD_English-LinES@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-LinES",
+    "parallels": [
+      "UD_English-LinES@2.18"
+    ]
+  },
+  {
+    "id": "SUD_English-LittlePrince@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-LittlePrince",
+    "parallels": [
+      "UD_English-LittlePrince@2.18"
+    ]
+  },
+  {
+    "id": "SUD_English-ParTUT@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-ParTUT",
+    "parallels": [
+      "UD_English-ParTUT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_English-Pronouns@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-Pronouns",
+    "parallels": [
+      "UD_English-Pronouns@2.18"
+    ]
+  },
+  {
+    "id": "SUD_English-PUD@2.18",
+    "schema": "SUD",
+    "lang": "en",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_English-PUD",
+    "parallels": [
+      "UD_English-PUD@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Erzya-JR@2.18",
+    "schema": "SUD",
+    "lang": "myv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Erzya-JR",
+    "parallels": [
+      "UD_Erzya-JR@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Esperanto-Cairo@2.18",
+    "schema": "SUD",
+    "lang": "eo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Esperanto-Cairo",
+    "parallels": [
+      "UD_Esperanto-Cairo@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Esperanto-Prago@2.18",
+    "schema": "SUD",
+    "lang": "eo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Esperanto-Prago",
+    "parallels": [
+      "UD_Esperanto-Prago@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Estonian-EDT@2.18",
+    "schema": "SUD",
+    "lang": "et",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Estonian-EDT",
+    "parallels": [
+      "UD_Estonian-EDT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Estonian-EWT@2.18",
+    "schema": "SUD",
+    "lang": "et",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Estonian-EWT",
+    "parallels": [
+      "UD_Estonian-EWT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Faroese-FarPaHC@2.18",
+    "schema": "SUD",
+    "lang": "fo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Faroese-FarPaHC",
+    "parallels": [
+      "UD_Faroese-FarPaHC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Faroese-OFT@2.18",
+    "schema": "SUD",
+    "lang": "fo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Faroese-OFT",
+    "parallels": [
+      "UD_Faroese-OFT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Finnish-FTB@2.18",
+    "schema": "SUD",
+    "lang": "fi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Finnish-FTB",
+    "parallels": [
+      "UD_Finnish-FTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Finnish-OOD@2.18",
+    "schema": "SUD",
+    "lang": "fi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Finnish-OOD",
+    "parallels": [
+      "UD_Finnish-OOD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Finnish-PUD@2.18",
+    "schema": "SUD",
+    "lang": "fi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Finnish-PUD",
+    "parallels": [
+      "UD_Finnish-PUD@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Finnish-TDT@2.18",
+    "schema": "SUD",
+    "lang": "fi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Finnish-TDT",
+    "parallels": [
+      "UD_Finnish-TDT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_French-ALTS@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-ALTS",
+    "parallels": [
+      "UD_French-ALTS@2.18"
+    ]
+  },
+  {
+    "id": "SUD_French-FQB@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-FQB",
+    "parallels": [
+      "UD_French-FQB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_French-ParTUT@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-ParTUT",
+    "parallels": [
+      "UD_French-ParTUT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_French-PoitevinDIVITAL@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-PoitevinDIVITAL",
+    "parallels": [
+      "UD_French-PoitevinDIVITAL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_French-PUD@2.18",
+    "schema": "SUD",
+    "lang": "fr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_French-PUD",
+    "parallels": [
+      "UD_French-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Frisian_Dutch-Fame@2.18",
+    "schema": "SUD",
+    "lang": "qfn",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Frisian_Dutch-Fame",
+    "parallels": [
+      "UD_Frisian_Dutch-Fame@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Galician-CTG@2.18",
+    "schema": "SUD",
+    "lang": "gl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Galician-CTG",
+    "parallels": [
+      "UD_Galician-CTG@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Galician-PUD@2.18",
+    "schema": "SUD",
+    "lang": "gl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Galician-PUD",
+    "parallels": [
+      "UD_Galician-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Galician-TreeGal@2.18",
+    "schema": "SUD",
+    "lang": "gl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Galician-TreeGal",
+    "parallels": [
+      "UD_Galician-TreeGal@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Georgian-GLC@2.18",
+    "schema": "SUD",
+    "lang": "ka",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Georgian-GLC",
+    "parallels": [
+      "UD_Georgian-GLC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Georgian-GNC@2.18",
+    "schema": "SUD",
+    "lang": "ka",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Georgian-GNC",
+    "parallels": [
+      "UD_Georgian-GNC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_German-GSD@2.18",
+    "schema": "SUD",
+    "lang": "de",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_German-GSD",
+    "parallels": [
+      "UD_German-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_German-HDT@2.18",
+    "schema": "SUD",
+    "lang": "de",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_German-HDT",
+    "parallels": [
+      "UD_German-HDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_German-LIT@2.18",
+    "schema": "SUD",
+    "lang": "de",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_German-LIT",
+    "parallels": [
+      "UD_German-LIT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_German-PUD@2.18",
+    "schema": "SUD",
+    "lang": "de",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_German-PUD",
+    "parallels": [
+      "UD_German-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Gheg-GPS@2.18",
+    "schema": "SUD",
+    "lang": "aln",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Gheg-GPS",
+    "parallels": [
+      "UD_Gheg-GPS@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Gorontalo-BungoLoLombi@2.18",
+    "schema": "SUD",
+    "lang": "gor",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Gorontalo-BungoLoLombi",
+    "parallels": [
+      "UD_Gorontalo-BungoLoLombi@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Gothic-PROIEL@2.18",
+    "schema": "SUD",
+    "lang": "got",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Gothic-PROIEL",
+    "parallels": [
+      "UD_Gothic-PROIEL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Greek-Cretan@2.18",
+    "schema": "SUD",
+    "lang": "el",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Greek-Cretan",
+    "parallels": [
+      "UD_Greek-Cretan@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Greek-GDT@2.18",
+    "schema": "SUD",
+    "lang": "el",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Greek-GDT",
+    "parallels": [
+      "UD_Greek-GDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Greek-GLCII@2.18",
+    "schema": "SUD",
+    "lang": "el",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Greek-GLCII",
+    "parallels": [
+      "UD_Greek-GLCII@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Greek-GUD@2.18",
+    "schema": "SUD",
+    "lang": "el",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Greek-GUD",
+    "parallels": [
+      "UD_Greek-GUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Greek-Lesbian@2.18",
+    "schema": "SUD",
+    "lang": "el",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Greek-Lesbian",
+    "parallels": [
+      "UD_Greek-Lesbian@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Greek-Messinian@2.18",
+    "schema": "SUD",
+    "lang": "el",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Greek-Messinian",
+    "parallels": [
+      "UD_Greek-Messinian@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Guajajara-TuDeT@2.18",
+    "schema": "SUD",
+    "lang": "gub",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Guajajara-TuDeT",
+    "parallels": [
+      "UD_Guajajara-TuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Guarani-OldTuDeT@2.18",
+    "schema": "SUD",
+    "lang": "gn",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Guarani-OldTuDeT",
+    "parallels": [
+      "UD_Guarani-OldTuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Gujarati-GujTB@2.18",
+    "schema": "SUD",
+    "lang": "gu",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Gujarati-GujTB",
+    "parallels": [
+      "UD_Gujarati-GujTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Gwichin-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "gwi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Gwichin-TueCL",
+    "parallels": [
+      "UD_Gwichin-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Haitian_Creole-Adolphe@2.18",
+    "schema": "SUD",
+    "lang": "ht",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Haitian_Creole-Adolphe",
+    "parallels": [
+      "UD_Haitian_Creole-Adolphe@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Hebrew-HTB@2.18",
+    "schema": "SUD",
+    "lang": "he",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hebrew-HTB",
+    "parallels": [
+      "UD_Hebrew-HTB@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Hebrew-IAHLTknesset@2.18",
+    "schema": "SUD",
+    "lang": "he",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hebrew-IAHLTknesset",
+    "parallels": [
+      "UD_Hebrew-IAHLTknesset@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Hebrew-IAHLTwiki@2.18",
+    "schema": "SUD",
+    "lang": "he",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hebrew-IAHLTwiki",
+    "parallels": [
+      "UD_Hebrew-IAHLTwiki@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Hebrew-PostRab@2.18",
+    "schema": "SUD",
+    "lang": "he",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hebrew-PostRab",
+    "parallels": [
+      "UD_Hebrew-PostRab@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Highland_Puebla_Nahuatl-ITML@2.18",
+    "schema": "SUD",
+    "lang": "azz",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Highland_Puebla_Nahuatl-ITML",
+    "parallels": [
+      "UD_Highland_Puebla_Nahuatl-ITML@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Hindi-HDTB@2.18",
+    "schema": "SUD",
+    "lang": "hi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hindi-HDTB",
+    "parallels": [
+      "UD_Hindi-HDTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Hindi-PUD@2.18",
+    "schema": "SUD",
+    "lang": "hi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hindi-PUD",
+    "parallels": [
+      "UD_Hindi-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Hittite-HitTB@2.18",
+    "schema": "SUD",
+    "lang": "hit",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hittite-HitTB",
+    "parallels": [
+      "UD_Hittite-HitTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Hungarian-Szeged@2.18",
+    "schema": "SUD",
+    "lang": "hu",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Hungarian-Szeged",
+    "parallels": [
+      "UD_Hungarian-Szeged@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Icelandic-GC@2.18",
+    "schema": "SUD",
+    "lang": "is",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Icelandic-GC",
+    "parallels": [
+      "UD_Icelandic-GC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Icelandic-IcePaHC@2.18",
+    "schema": "SUD",
+    "lang": "is",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Icelandic-IcePaHC",
+    "parallels": [
+      "UD_Icelandic-IcePaHC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Icelandic-Modern@2.18",
+    "schema": "SUD",
+    "lang": "is",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Icelandic-Modern",
+    "parallels": [
+      "UD_Icelandic-Modern@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Icelandic-PUD@2.18",
+    "schema": "SUD",
+    "lang": "is",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Icelandic-PUD",
+    "parallels": [
+      "UD_Icelandic-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Indonesian-CSUI@2.18",
+    "schema": "SUD",
+    "lang": "id",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Indonesian-CSUI",
+    "parallels": [
+      "UD_Indonesian-CSUI@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Indonesian-GSD@2.18",
+    "schema": "SUD",
+    "lang": "id",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Indonesian-GSD",
+    "parallels": [
+      "UD_Indonesian-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Indonesian-PUD@2.18",
+    "schema": "SUD",
+    "lang": "id",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Indonesian-PUD",
+    "parallels": [
+      "UD_Indonesian-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Irish-Cadhan@2.18",
+    "schema": "SUD",
+    "lang": "ga",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Irish-Cadhan",
+    "parallels": [
+      "UD_Irish-Cadhan@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Irish-IDT@2.18",
+    "schema": "SUD",
+    "lang": "ga",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Irish-IDT",
+    "parallels": [
+      "UD_Irish-IDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Irish-TwittIrish@2.18",
+    "schema": "SUD",
+    "lang": "ga",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Irish-TwittIrish",
+    "parallels": [
+      "UD_Irish-TwittIrish@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-ISDT@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-ISDT",
+    "parallels": [
+      "UD_Italian-ISDT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Italian-KIParlaForest@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-KIParlaForest",
+    "parallels": [
+      "UD_Italian-KIParlaForest@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-MarkIT@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-MarkIT",
+    "parallels": [
+      "UD_Italian-MarkIT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-Old@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-Old",
+    "parallels": [
+      "UD_Italian-Old@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Italian-ParlaMint@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-ParlaMint",
+    "parallels": [
+      "UD_Italian-ParlaMint@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-ParTUT@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-ParTUT",
+    "parallels": [
+      "UD_Italian-ParTUT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-PoSTWITA@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-PoSTWITA",
+    "parallels": [
+      "UD_Italian-PoSTWITA@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-PUD@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-PUD",
+    "parallels": [
+      "UD_Italian-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-TWITTIRO@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-TWITTIRO",
+    "parallels": [
+      "UD_Italian-TWITTIRO@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-Valico@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-Valico",
+    "parallels": [
+      "UD_Italian-Valico@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Italian-VIT@2.18",
+    "schema": "SUD",
+    "lang": "it",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Italian-VIT",
+    "parallels": [
+      "UD_Italian-VIT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Japanese-BCCWJ@2.18",
+    "schema": "SUD",
+    "lang": "ja",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Japanese-BCCWJ",
+    "parallels": [
+      "UD_Japanese-BCCWJ@2.18"
+    ],
+    "no_word": true
+  },
+  {
+    "id": "SUD_Japanese-BCCWJLUW@2.18",
+    "schema": "SUD",
+    "lang": "ja",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Japanese-BCCWJLUW",
+    "parallels": [
+      "UD_Japanese-BCCWJLUW@2.18"
+    ],
+    "no_word": true
+  },
+  {
+    "id": "SUD_Japanese-GSD@2.18",
+    "schema": "SUD",
+    "lang": "ja",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Japanese-GSD",
+    "parallels": [
+      "UD_Japanese-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Japanese-GSDLUW@2.18",
+    "schema": "SUD",
+    "lang": "ja",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Japanese-GSDLUW",
+    "parallels": [
+      "UD_Japanese-GSDLUW@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Japanese-PUD@2.18",
+    "schema": "SUD",
+    "lang": "ja",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Japanese-PUD",
+    "parallels": [
+      "UD_Japanese-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Japanese-PUDLUW@2.18",
+    "schema": "SUD",
+    "lang": "ja",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Japanese-PUDLUW",
+    "parallels": [
+      "UD_Japanese-PUDLUW@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Javanese-CSUI@2.18",
+    "schema": "SUD",
+    "lang": "jv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Javanese-CSUI",
+    "parallels": [
+      "UD_Javanese-CSUI@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Kaapor-TuDeT@2.18",
+    "schema": "SUD",
+    "lang": "urb",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Kaapor-TuDeT",
+    "parallels": [
+      "UD_Kaapor-TuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Kadiweu-Unicamp@2.18",
+    "schema": "SUD",
+    "lang": "kbc",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Kadiweu-Unicamp",
+    "parallels": [
+      "UD_Kadiweu-Unicamp@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Kangri-KDTB@2.18",
+    "schema": "SUD",
+    "lang": "xnr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Kangri-KDTB",
+    "parallels": [
+      "UD_Kangri-KDTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Karelian-KKPP@2.18",
+    "schema": "SUD",
+    "lang": "krl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Karelian-KKPP",
+    "parallels": [
+      "UD_Karelian-KKPP@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Karo-TuDeT@2.18",
+    "schema": "SUD",
+    "lang": "arr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Karo-TuDeT",
+    "parallels": [
+      "UD_Karo-TuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Kazakh-KTB@2.18",
+    "schema": "SUD",
+    "lang": "kk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Kazakh-KTB",
+    "parallels": [
+      "UD_Kazakh-KTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Khoekhoe-KDT@2.18",
+    "schema": "SUD",
+    "lang": "naq",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Khoekhoe-KDT",
+    "parallels": [
+      "UD_Khoekhoe-KDT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Kiche-IU@2.18",
+    "schema": "SUD",
+    "lang": "quc",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Kiche-IU",
+    "parallels": [
+      "UD_Kiche-IU@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Komi_Permyak-UH@2.18",
+    "schema": "SUD",
+    "lang": "koi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Komi_Permyak-UH",
+    "parallels": [
+      "UD_Komi_Permyak-UH@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Komi_Zyrian-IKDP@2.18",
+    "schema": "SUD",
+    "lang": "kpv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Komi_Zyrian-IKDP",
+    "parallels": [
+      "UD_Komi_Zyrian-IKDP@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Komi_Zyrian-Lattice@2.18",
+    "schema": "SUD",
+    "lang": "kpv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Komi_Zyrian-Lattice",
+    "parallels": [
+      "UD_Komi_Zyrian-Lattice@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Korean-GSD@2.18",
+    "schema": "SUD",
+    "lang": "ko",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Korean-GSD",
+    "parallels": [
+      "UD_Korean-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Korean-Kaist@2.18",
+    "schema": "SUD",
+    "lang": "ko",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Korean-Kaist",
+    "parallels": [
+      "UD_Korean-Kaist@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Korean-KSL@2.18",
+    "schema": "SUD",
+    "lang": "ko",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Korean-KSL",
+    "parallels": [
+      "UD_Korean-KSL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Korean-LittlePrince@2.18",
+    "schema": "SUD",
+    "lang": "ko",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Korean-LittlePrince",
+    "parallels": [
+      "UD_Korean-LittlePrince@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Korean-PUD@2.18",
+    "schema": "SUD",
+    "lang": "ko",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Korean-PUD",
+    "parallels": [
+      "UD_Korean-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Kyrgyz-KTMU@2.18",
+    "schema": "SUD",
+    "lang": "ky",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Kyrgyz-KTMU",
+    "parallels": [
+      "UD_Kyrgyz-KTMU@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Kyrgyz-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "ky",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Kyrgyz-TueCL",
+    "parallels": [
+      "UD_Kyrgyz-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Latgalian-Cairo@2.18",
+    "schema": "SUD",
+    "lang": "ltg",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latgalian-Cairo",
+    "parallels": [
+      "UD_Latgalian-Cairo@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Latin-CIRCSE@2.18",
+    "schema": "SUD",
+    "lang": "la",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latin-CIRCSE",
+    "parallels": [
+      "UD_Latin-CIRCSE@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Latin-ITTB@2.18",
+    "schema": "SUD",
+    "lang": "la",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latin-ITTB",
+    "parallels": [
+      "UD_Latin-ITTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Latin-LLCT@2.18",
+    "schema": "SUD",
+    "lang": "la",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latin-LLCT",
+    "parallels": [
+      "UD_Latin-LLCT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Latin-Perseus@2.18",
+    "schema": "SUD",
+    "lang": "la",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latin-Perseus",
+    "parallels": [
+      "UD_Latin-Perseus@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Latin-PROIEL@2.18",
+    "schema": "SUD",
+    "lang": "la",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latin-PROIEL",
+    "parallels": [
+      "UD_Latin-PROIEL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Latin-UDante@2.18",
+    "schema": "SUD",
+    "lang": "la",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latin-UDante",
+    "parallels": [
+      "UD_Latin-UDante@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Latvian-Cairo@2.18",
+    "schema": "SUD",
+    "lang": "lv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latvian-Cairo",
+    "parallels": [
+      "UD_Latvian-Cairo@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Latvian-LVTB@2.18",
+    "schema": "SUD",
+    "lang": "lv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Latvian-LVTB",
+    "parallels": [
+      "UD_Latvian-LVTB@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Ligurian-GLT@2.18",
+    "schema": "SUD",
+    "lang": "lij",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ligurian-GLT",
+    "parallels": [
+      "UD_Ligurian-GLT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Lithuanian-ALKSNIS@2.18",
+    "schema": "SUD",
+    "lang": "lt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Lithuanian-ALKSNIS",
+    "parallels": [
+      "UD_Lithuanian-ALKSNIS@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Lithuanian-HSE@2.18",
+    "schema": "SUD",
+    "lang": "lt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Lithuanian-HSE",
+    "parallels": [
+      "UD_Lithuanian-HSE@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Livvi-KKPP@2.18",
+    "schema": "SUD",
+    "lang": "olo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Livvi-KKPP",
+    "parallels": [
+      "UD_Livvi-KKPP@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Low_Saxon-LSDC@2.18",
+    "schema": "SUD",
+    "lang": "nds",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Low_Saxon-LSDC",
+    "parallels": [
+      "UD_Low_Saxon-LSDC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Luxembourgish-LuxBank@2.18",
+    "schema": "SUD",
+    "lang": "lb",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Luxembourgish-LuxBank",
+    "parallels": [
+      "UD_Luxembourgish-LuxBank@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Macedonian-MTB@2.18",
+    "schema": "SUD",
+    "lang": "mk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Macedonian-MTB",
+    "parallels": [
+      "UD_Macedonian-MTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Madi-Jarawara@2.18",
+    "schema": "SUD",
+    "lang": "jaa",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Madi-Jarawara",
+    "parallels": [
+      "UD_Madi-Jarawara@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Maghrebi_Arabic_French-Arabizi@2.18",
+    "schema": "SUD",
+    "lang": "qaf",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Maghrebi_Arabic_French-Arabizi",
+    "parallels": [
+      "UD_Maghrebi_Arabic_French-Arabizi@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Makurap-TuDeT@2.18",
+    "schema": "SUD",
+    "lang": "mpu",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Makurap-TuDeT",
+    "parallels": [
+      "UD_Makurap-TuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Malayalam-UFAL@2.18",
+    "schema": "SUD",
+    "lang": "ml",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Malayalam-UFAL",
+    "parallels": [
+      "UD_Malayalam-UFAL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Maltese-MUDT@2.18",
+    "schema": "SUD",
+    "lang": "mt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Maltese-MUDT",
+    "parallels": [
+      "UD_Maltese-MUDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Manx-Cadhan@2.18",
+    "schema": "SUD",
+    "lang": "gv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Manx-Cadhan",
+    "parallels": [
+      "UD_Manx-Cadhan@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Marathi-CMUPAN@2.18",
+    "schema": "SUD",
+    "lang": "mr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Marathi-CMUPAN",
+    "parallels": [
+      "UD_Marathi-CMUPAN@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Marathi-UFAL@2.18",
+    "schema": "SUD",
+    "lang": "mr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Marathi-UFAL",
+    "parallels": [
+      "UD_Marathi-UFAL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Mbya_Guarani-Thomas@2.18",
+    "schema": "SUD",
+    "lang": "gun",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Mbya_Guarani-Thomas",
+    "parallels": [
+      "UD_Mbya_Guarani-Thomas@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Middle_Armenian-ArmTDP@2.18",
+    "schema": "SUD",
+    "lang": "axm",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Middle_Armenian-ArmTDP",
+    "parallels": [
+      "UD_Middle_Armenian-ArmTDP@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Middle_French-ALTM@2.18",
+    "schema": "SUD",
+    "lang": "frm",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Middle_French-ALTM",
+    "parallels": [
+      "UD_Middle_French-ALTM@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Middle_French-PROFITEROLE@2.18",
+    "schema": "SUD",
+    "lang": "frm",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Middle_French-PROFITEROLE",
+    "parallels": [
+      "UD_Middle_French-PROFITEROLE@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Moksha-JR@2.18",
+    "schema": "SUD",
+    "lang": "mdf",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Moksha-JR",
+    "parallels": [
+      "UD_Moksha-JR@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Munduruku-TuDeT@2.18",
+    "schema": "SUD",
+    "lang": "myu",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Munduruku-TuDeT",
+    "parallels": [
+      "UD_Munduruku-TuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Naga-Suansu@2.18",
+    "schema": "SUD",
+    "lang": "nmf",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Naga-Suansu",
+    "parallels": [
+      "UD_Naga-Suansu@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Neapolitan-RB@2.18",
+    "schema": "SUD",
+    "lang": "nap",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Neapolitan-RB",
+    "parallels": [
+      "UD_Neapolitan-RB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Nepali-BK@2.18",
+    "schema": "SUD",
+    "lang": "ne",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Nepali-BK",
+    "parallels": [
+      "UD_Nepali-BK@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Nheengatu-CompLin@2.18",
+    "schema": "SUD",
+    "lang": "yrl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Nheengatu-CompLin",
+    "parallels": [
+      "UD_Nheengatu-CompLin@2.18"
+    ]
+  },
+  {
+    "id": "SUD_North_Sami-Giella@2.18",
+    "schema": "SUD",
+    "lang": "sme",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_North_Sami-Giella",
+    "parallels": [
+      "UD_North_Sami-Giella@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Northern_Kurdish-Kurmanji@2.18",
+    "schema": "SUD",
+    "lang": "kmr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Northern_Kurdish-Kurmanji",
+    "parallels": [
+      "UD_Northern_Kurdish-Kurmanji@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Norwegian-Bokmaal@2.18",
+    "schema": "SUD",
+    "lang": "no",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Norwegian-Bokmaal",
+    "parallels": [
+      "UD_Norwegian-Bokmaal@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Norwegian-Nynorsk@2.18",
+    "schema": "SUD",
+    "lang": "no",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Norwegian-Nynorsk",
+    "parallels": [
+      "UD_Norwegian-Nynorsk@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Occitan-TTB@2.18",
+    "schema": "SUD",
+    "lang": "oc",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Occitan-TTB",
+    "parallels": [
+      "UD_Occitan-TTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Odia-ODTB@2.18",
+    "schema": "SUD",
+    "lang": "or",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Odia-ODTB",
+    "parallels": [
+      "UD_Odia-ODTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_Church_Slavonic-PROIEL@2.18",
+    "schema": "SUD",
+    "lang": "cu",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_Church_Slavonic-PROIEL",
+    "parallels": [
+      "UD_Old_Church_Slavonic-PROIEL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_East_Slavic-Birchbark@2.18",
+    "schema": "SUD",
+    "lang": "orv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_East_Slavic-Birchbark",
+    "parallels": [
+      "UD_Old_East_Slavic-Birchbark@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_East_Slavic-RNC@2.18",
+    "schema": "SUD",
+    "lang": "orv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_East_Slavic-RNC",
+    "parallels": [
+      "UD_Old_East_Slavic-RNC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_East_Slavic-Ruthenian@2.18",
+    "schema": "SUD",
+    "lang": "orv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_East_Slavic-Ruthenian",
+    "parallels": [
+      "UD_Old_East_Slavic-Ruthenian@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_East_Slavic-TOROT@2.18",
+    "schema": "SUD",
+    "lang": "orv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_East_Slavic-TOROT",
+    "parallels": [
+      "UD_Old_East_Slavic-TOROT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_English-Cairo@2.18",
+    "schema": "SUD",
+    "lang": "ang",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_English-Cairo",
+    "parallels": [
+      "UD_Old_English-Cairo@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_French-ALTM@2.18",
+    "schema": "SUD",
+    "lang": "fro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_French-ALTM",
+    "parallels": [
+      "UD_Old_French-ALTM@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_French-PROFITEROLE@2.18",
+    "schema": "SUD",
+    "lang": "fro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_French-PROFITEROLE",
+    "parallels": [
+      "UD_Old_French-PROFITEROLE@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_Georgian-GLC@2.18",
+    "schema": "SUD",
+    "lang": "oge",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_Georgian-GLC",
+    "parallels": [
+      "UD_Old_Georgian-GLC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_Irish-DipSGG@2.18",
+    "schema": "SUD",
+    "lang": "sga",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_Irish-DipSGG",
+    "parallels": [
+      "UD_Old_Irish-DipSGG@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_Irish-DipWBG@2.18",
+    "schema": "SUD",
+    "lang": "sga",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_Irish-DipWBG",
+    "parallels": [
+      "UD_Old_Irish-DipWBG@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_Occitan-CorAG@2.18",
+    "schema": "SUD",
+    "lang": "pro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_Occitan-CorAG",
+    "parallels": [
+      "UD_Old_Occitan-CorAG@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Old_Turkish-Clausal@2.18",
+    "schema": "SUD",
+    "lang": "otk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Old_Turkish-Clausal",
+    "parallels": [
+      "UD_Old_Turkish-Clausal@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ottoman_Turkish-BOUN@2.18",
+    "schema": "SUD",
+    "lang": "ota",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ottoman_Turkish-BOUN",
+    "parallels": [
+      "UD_Ottoman_Turkish-BOUN@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ottoman_Turkish-DUDU@2.18",
+    "schema": "SUD",
+    "lang": "ota",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ottoman_Turkish-DUDU",
+    "parallels": [
+      "UD_Ottoman_Turkish-DUDU@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ottoman_Turkish-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "ota",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ottoman_Turkish-TueCL",
+    "parallels": [
+      "UD_Ottoman_Turkish-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Pashto-Prince@2.18",
+    "schema": "SUD",
+    "lang": "ps",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Pashto-Prince",
+    "parallels": [
+      "UD_Pashto-Prince@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Pashto-Sikaram@2.18",
+    "schema": "SUD",
+    "lang": "ps",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Pashto-Sikaram",
+    "parallels": [
+      "UD_Pashto-Sikaram@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Paumari-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "pad",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Paumari-TueCL",
+    "parallels": [
+      "UD_Paumari-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Persian-PerDT@2.18",
+    "schema": "SUD",
+    "lang": "fa",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Persian-PerDT",
+    "parallels": [
+      "UD_Persian-PerDT@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Persian-Seraji@2.18",
+    "schema": "SUD",
+    "lang": "fa",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Persian-Seraji",
+    "parallels": [
+      "UD_Persian-Seraji@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Phrygian-KUL@2.18",
+    "schema": "SUD",
+    "lang": "xpg",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Phrygian-KUL",
+    "parallels": [
+      "UD_Phrygian-KUL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Polish-LFG@2.18",
+    "schema": "SUD",
+    "lang": "pl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Polish-LFG",
+    "parallels": [
+      "UD_Polish-LFG@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Polish-MPDT@2.18",
+    "schema": "SUD",
+    "lang": "pl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Polish-MPDT",
+    "parallels": [
+      "UD_Polish-MPDT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Polish-PDB@2.18",
+    "schema": "SUD",
+    "lang": "pl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Polish-PDB",
+    "parallels": [
+      "UD_Polish-PDB@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Polish-PUD@2.18",
+    "schema": "SUD",
+    "lang": "pl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Polish-PUD",
+    "parallels": [
+      "UD_Polish-PUD@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Pomak-Philotis@2.18",
+    "schema": "SUD",
+    "lang": "qpm",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Pomak-Philotis",
+    "parallels": [
+      "UD_Pomak-Philotis@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Portuguese-Bosque@2.18",
+    "schema": "SUD",
+    "lang": "pt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Portuguese-Bosque",
+    "parallels": [
+      "UD_Portuguese-Bosque@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Portuguese-DANTEStocks@2.18",
+    "schema": "SUD",
+    "lang": "pt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Portuguese-DANTEStocks",
+    "parallels": [
+      "UD_Portuguese-DANTEStocks@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Portuguese-GSD@2.18",
+    "schema": "SUD",
+    "lang": "pt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Portuguese-GSD",
+    "parallels": [
+      "UD_Portuguese-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Portuguese-PetroGold@2.18",
+    "schema": "SUD",
+    "lang": "pt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Portuguese-PetroGold",
+    "parallels": [
+      "UD_Portuguese-PetroGold@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Portuguese-Porttinari@2.18",
+    "schema": "SUD",
+    "lang": "pt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Portuguese-Porttinari",
+    "parallels": [
+      "UD_Portuguese-Porttinari@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Portuguese-PUD@2.18",
+    "schema": "SUD",
+    "lang": "pt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Portuguese-PUD",
+    "parallels": [
+      "UD_Portuguese-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Punjabi-CS@2.18",
+    "schema": "SUD",
+    "lang": "pa",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Punjabi-CS",
+    "parallels": [
+      "UD_Punjabi-CS@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Punjabi-Rang@2.18",
+    "schema": "SUD",
+    "lang": "pa",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Punjabi-Rang",
+    "parallels": [
+      "UD_Punjabi-Rang@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Romanian-ArT@2.18",
+    "schema": "SUD",
+    "lang": "ro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Romanian-ArT",
+    "parallels": [
+      "UD_Romanian-ArT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Romanian-MolDoRo@2.18",
+    "schema": "SUD",
+    "lang": "ro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Romanian-MolDoRo",
+    "parallels": [
+      "UD_Romanian-MolDoRo@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Romanian-Nonstandard@2.18",
+    "schema": "SUD",
+    "lang": "ro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Romanian-Nonstandard",
+    "parallels": [
+      "UD_Romanian-Nonstandard@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Romanian-RRT@2.18",
+    "schema": "SUD",
+    "lang": "ro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Romanian-RRT",
+    "parallels": [
+      "UD_Romanian-RRT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Romanian-SiMoNERo@2.18",
+    "schema": "SUD",
+    "lang": "ro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Romanian-SiMoNERo",
+    "parallels": [
+      "UD_Romanian-SiMoNERo@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Romanian-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "ro",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Romanian-TueCL",
+    "parallels": [
+      "UD_Romanian-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Russian-GSD@2.18",
+    "schema": "SUD",
+    "lang": "ru",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Russian-GSD",
+    "parallels": [
+      "UD_Russian-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Russian-Poetry@2.18",
+    "schema": "SUD",
+    "lang": "ru",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Russian-Poetry",
+    "parallels": [
+      "UD_Russian-Poetry@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Russian-PUD@2.18",
+    "schema": "SUD",
+    "lang": "ru",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Russian-PUD",
+    "parallels": [
+      "UD_Russian-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Russian-SynTagRus@2.18",
+    "schema": "SUD",
+    "lang": "ru",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Russian-SynTagRus",
+    "parallels": [
+      "UD_Russian-SynTagRus@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Russian-Taiga@2.18",
+    "schema": "SUD",
+    "lang": "ru",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Russian-Taiga",
+    "parallels": [
+      "UD_Russian-Taiga@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ruuli-RDT@2.18",
+    "schema": "SUD",
+    "lang": "ruc",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ruuli-RDT",
+    "parallels": [
+      "UD_Ruuli-RDT@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Sanskrit-UFAL@2.18",
+    "schema": "SUD",
+    "lang": "sa",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Sanskrit-UFAL",
+    "parallels": [
+      "UD_Sanskrit-UFAL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Sanskrit-Vedic@2.18",
+    "schema": "SUD",
+    "lang": "sa",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Sanskrit-Vedic",
+    "parallels": [
+      "UD_Sanskrit-Vedic@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Scottish_Gaelic-ARCOSG@2.18",
+    "schema": "SUD",
+    "lang": "gd",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Scottish_Gaelic-ARCOSG",
+    "parallels": [
+      "UD_Scottish_Gaelic-ARCOSG@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Serbian-SET@2.18",
+    "schema": "SUD",
+    "lang": "sr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Serbian-SET",
+    "parallels": [
+      "UD_Serbian-SET@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Shanghainese-ShUD@2.18",
+    "schema": "SUD",
+    "lang": "wuu",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Shanghainese-ShUD",
+    "parallels": [
+      "UD_Shanghainese-ShUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Sicilian-STB@2.18",
+    "schema": "SUD",
+    "lang": "scn",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Sicilian-STB",
+    "parallels": [
+      "UD_Sicilian-STB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Sindhi-Isra@2.18",
+    "schema": "SUD",
+    "lang": "sd",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Sindhi-Isra",
+    "parallels": [
+      "UD_Sindhi-Isra@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Sinhala-Appuwa@2.18",
+    "schema": "SUD",
+    "lang": "si",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Sinhala-Appuwa",
+    "parallels": [
+      "UD_Sinhala-Appuwa@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Sinhala-STB@2.18",
+    "schema": "SUD",
+    "lang": "si",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Sinhala-STB",
+    "parallels": [
+      "UD_Sinhala-STB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Skolt_Sami-Giellagas@2.18",
+    "schema": "SUD",
+    "lang": "sms",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Skolt_Sami-Giellagas",
+    "parallels": [
+      "UD_Skolt_Sami-Giellagas@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Slovak-SNK@2.18",
+    "schema": "SUD",
+    "lang": "sk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Slovak-SNK",
+    "parallels": [
+      "UD_Slovak-SNK@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Slovenian-SSJ@2.18",
+    "schema": "SUD",
+    "lang": "sl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Slovenian-SSJ",
+    "parallels": [
+      "UD_Slovenian-SSJ@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Slovenian-SST@2.18",
+    "schema": "SUD",
+    "lang": "sl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Slovenian-SST",
+    "parallels": [
+      "UD_Slovenian-SST@2.18"
+    ],
+    "audio": true
+  },
+  {
+    "id": "SUD_South_Levantine_Arabic-MADAR@2.18",
+    "schema": "SUD",
+    "lang": "ajp",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_South_Levantine_Arabic-MADAR",
+    "parallels": [
+      "UD_South_Levantine_Arabic-MADAR@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Southern_Kurdish-Garrusi@2.18",
+    "schema": "SUD",
+    "lang": "sdh",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Southern_Kurdish-Garrusi",
+    "parallels": [
+      "UD_Southern_Kurdish-Garrusi@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Spanish_Sign_Language-LSE@2.18",
+    "schema": "SUD",
+    "lang": "ssp",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Spanish_Sign_Language-LSE",
+    "parallels": [
+      "UD_Spanish_Sign_Language-LSE@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Spanish-AnCora@2.18",
+    "schema": "SUD",
+    "lang": "es",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Spanish-AnCora",
+    "parallels": [
+      "UD_Spanish-AnCora@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Spanish-COSER@2.18",
+    "schema": "SUD",
+    "lang": "es",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Spanish-COSER",
+    "parallels": [
+      "UD_Spanish-COSER@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Spanish-GSD@2.18",
+    "schema": "SUD",
+    "lang": "es",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Spanish-GSD",
+    "parallels": [
+      "UD_Spanish-GSD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Spanish-PUD@2.18",
+    "schema": "SUD",
+    "lang": "es",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Spanish-PUD",
+    "parallels": [
+      "UD_Spanish-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Swedish_Sign_Language-SSLC@2.18",
+    "schema": "SUD",
+    "lang": "swl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Swedish_Sign_Language-SSLC",
+    "parallels": [
+      "UD_Swedish_Sign_Language-SSLC@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Swedish-LinES@2.18",
+    "schema": "SUD",
+    "lang": "sv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Swedish-LinES",
+    "parallels": [
+      "UD_Swedish-LinES@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Swedish-Old@2.18",
+    "schema": "SUD",
+    "lang": "sv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Swedish-Old",
+    "parallels": [
+      "UD_Swedish-Old@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Swedish-PUD@2.18",
+    "schema": "SUD",
+    "lang": "sv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Swedish-PUD",
+    "parallels": [
+      "UD_Swedish-PUD@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Swedish-SweLL@2.18",
+    "schema": "SUD",
+    "lang": "sv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Swedish-SweLL",
+    "parallels": [
+      "UD_Swedish-SweLL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Swedish-Talbanken@2.18",
+    "schema": "SUD",
+    "lang": "sv",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Swedish-Talbanken",
+    "parallels": [
+      "UD_Swedish-Talbanken@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Tagalog-TRG@2.18",
+    "schema": "SUD",
+    "lang": "tl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Tagalog-TRG",
+    "parallels": [
+      "UD_Tagalog-TRG@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Tagalog-Ugnayan@2.18",
+    "schema": "SUD",
+    "lang": "tl",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Tagalog-Ugnayan",
+    "parallels": [
+      "UD_Tagalog-Ugnayan@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Tamil-MWTT@2.18",
+    "schema": "SUD",
+    "lang": "ta",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Tamil-MWTT",
+    "parallels": [
+      "UD_Tamil-MWTT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Tamil-TTB@2.18",
+    "schema": "SUD",
+    "lang": "ta",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Tamil-TTB",
+    "parallels": [
+      "UD_Tamil-TTB@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Tatar-NMCTT@2.18",
+    "schema": "SUD",
+    "lang": "tt",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Tatar-NMCTT",
+    "parallels": [
+      "UD_Tatar-NMCTT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Teko-TuDeT@2.18",
+    "schema": "SUD",
+    "lang": "eme",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Teko-TuDeT",
+    "parallels": [
+      "UD_Teko-TuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Telugu_English-TECT@2.18",
+    "schema": "SUD",
+    "lang": "qte",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Telugu_English-TECT",
+    "parallels": [
+      "UD_Telugu_English-TECT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Telugu-MTG@2.18",
+    "schema": "SUD",
+    "lang": "te",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Telugu-MTG",
+    "parallels": [
+      "UD_Telugu-MTG@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Thai-PUD@2.18",
+    "schema": "SUD",
+    "lang": "th",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Thai-PUD",
+    "parallels": [
+      "UD_Thai-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Thai-TUD@2.18",
+    "schema": "SUD",
+    "lang": "th",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Thai-TUD",
+    "parallels": [
+      "UD_Thai-TUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Tswana-Popapolelo@2.18",
+    "schema": "SUD",
+    "lang": "tn",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Tswana-Popapolelo",
+    "parallels": [
+      "UD_Tswana-Popapolelo@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Tupinamba-TuDeT@2.18",
+    "schema": "SUD",
+    "lang": "tpn",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Tupinamba-TuDeT",
+    "parallels": [
+      "UD_Tupinamba-TuDeT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish_English-BUTR@2.18",
+    "schema": "SUD",
+    "lang": "qti",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish_English-BUTR",
+    "parallels": [
+      "UD_Turkish_English-BUTR@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish_German-SAGT@2.18",
+    "schema": "SUD",
+    "lang": "qtd",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish_German-SAGT",
+    "parallels": [
+      "UD_Turkish_German-SAGT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-Atis@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-Atis",
+    "parallels": [
+      "UD_Turkish-Atis@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-BOUN@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-BOUN",
+    "parallels": [
+      "UD_Turkish-BOUN@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-FrameNet@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-FrameNet",
+    "parallels": [
+      "UD_Turkish-FrameNet@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-GB@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-GB",
+    "parallels": [
+      "UD_Turkish-GB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-IMST@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-IMST",
+    "parallels": [
+      "UD_Turkish-IMST@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-Kenet@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-Kenet",
+    "parallels": [
+      "UD_Turkish-Kenet@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-Penn@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-Penn",
+    "parallels": [
+      "UD_Turkish-Penn@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-PUD@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-PUD",
+    "parallels": [
+      "UD_Turkish-PUD@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-Tourism@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-Tourism",
+    "parallels": [
+      "UD_Turkish-Tourism@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Turkish-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "tr",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Turkish-TueCL",
+    "parallels": [
+      "UD_Turkish-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Ukrainian-IU@2.18",
+    "schema": "SUD",
+    "lang": "uk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ukrainian-IU",
+    "parallels": [
+      "UD_Ukrainian-IU@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Ukrainian-ParlaMint@2.18",
+    "schema": "SUD",
+    "lang": "uk",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Ukrainian-ParlaMint",
+    "parallels": [
+      "UD_Ukrainian-ParlaMint@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Umbrian-IKUVINA@2.18",
+    "schema": "SUD",
+    "lang": "xum",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Umbrian-IKUVINA",
+    "parallels": [
+      "UD_Umbrian-IKUVINA@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Upper_Sorbian-UFAL@2.18",
+    "schema": "SUD",
+    "lang": "hsb",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Upper_Sorbian-UFAL",
+    "parallels": [
+      "UD_Upper_Sorbian-UFAL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Urdu-UDTB@2.18",
+    "schema": "SUD",
+    "lang": "ur",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Urdu-UDTB",
+    "parallels": [
+      "UD_Urdu-UDTB@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Uyghur-UDT@2.18",
+    "schema": "SUD",
+    "lang": "ug",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Uyghur-UDT",
+    "parallels": [
+      "UD_Uyghur-UDT@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Uzbek-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "uz",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Uzbek-TueCL",
+    "parallels": [
+      "UD_Uzbek-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Uzbek-UT@2.18",
+    "schema": "SUD",
+    "lang": "uz",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Uzbek-UT",
+    "parallels": [
+      "UD_Uzbek-UT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Uzbek-UzUDT@2.18",
+    "schema": "SUD",
+    "lang": "uz",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Uzbek-UzUDT",
+    "parallels": [
+      "UD_Uzbek-UzUDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Veps-VWT@2.18",
+    "schema": "SUD",
+    "lang": "vep",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Veps-VWT",
+    "parallels": [
+      "UD_Veps-VWT@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Vietnamese-TueCL@2.18",
+    "schema": "SUD",
+    "lang": "vi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Vietnamese-TueCL",
+    "parallels": [
+      "UD_Vietnamese-TueCL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Vietnamese-VTB@2.18",
+    "schema": "SUD",
+    "lang": "vi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Vietnamese-VTB",
+    "parallels": [
+      "UD_Vietnamese-VTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Warlpiri-UFAL@2.18",
+    "schema": "SUD",
+    "lang": "wbp",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Warlpiri-UFAL",
+    "parallels": [
+      "UD_Warlpiri-UFAL@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Welsh-CCG@2.18",
+    "schema": "SUD",
+    "lang": "cy",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Welsh-CCG",
+    "parallels": [
+      "UD_Welsh-CCG@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Western_Armenian-ArmTDP@2.18",
+    "schema": "SUD",
+    "lang": "hyw",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Western_Armenian-ArmTDP",
+    "parallels": [
+      "UD_Western_Armenian-ArmTDP@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Western_Sierra_Puebla_Nahuatl-MesoTree@2.18",
+    "schema": "SUD",
+    "lang": "nhi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Western_Sierra_Puebla_Nahuatl-MesoTree",
+    "parallels": [
+      "UD_Western_Sierra_Puebla_Nahuatl-MesoTree@2.18"
+    ],
+    "enhanced": true
+  },
+  {
+    "id": "SUD_Wolof-WTB@2.18",
+    "schema": "SUD",
+    "lang": "wo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Wolof-WTB",
+    "parallels": [
+      "UD_Wolof-WTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Xavante-XDT@2.18",
+    "schema": "SUD",
+    "lang": "xav",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Xavante-XDT",
+    "parallels": [
+      "UD_Xavante-XDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Xibe-XDT@2.18",
+    "schema": "SUD",
+    "lang": "sjo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Xibe-XDT",
+    "parallels": [
+      "UD_Xibe-XDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Yakut-YKTDT@2.18",
+    "schema": "SUD",
+    "lang": "sah",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Yakut-YKTDT",
+    "parallels": [
+      "UD_Yakut-YKTDT@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Yiddish-YiTB@2.18",
+    "schema": "SUD",
+    "lang": "yi",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Yiddish-YiTB",
+    "parallels": [
+      "UD_Yiddish-YiTB@2.18"
+    ],
+    "rtl": true
+  },
+  {
+    "id": "SUD_Yoruba-YTB@2.18",
+    "schema": "SUD",
+    "lang": "yo",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Yoruba-YTB",
+    "parallels": [
+      "UD_Yoruba-YTB@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Yupik-SLI@2.18",
+    "schema": "SUD",
+    "lang": "ess",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Yupik-SLI",
+    "parallels": [
+      "UD_Yupik-SLI@2.18"
+    ]
+  },
+  {
+    "id": "SUD_Zazaki-ZSD@2.18",
+    "schema": "SUD",
+    "lang": "zza",
+    "directory": "${RESOURCES}/sud-treebanks-v2.18/SUD_Zazaki-ZSD",
+    "parallels": [
+      "UD_Zazaki-ZSD@2.18"
+    ]
+  }
+]

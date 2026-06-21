@@ -1,5 +1,5 @@
 ---
-title:  Non-Dominant Hand Held
+title: NDHHeld
 request: pattern { X -[NDHHeld]-> Y }
 scope:
   schema: SUD
@@ -8,6 +8,8 @@ type: doc
 tags: 
  - feature
 ---
+
+# Non-Dominant Hand Held
 
 NDHHeld stands for Non-Dominant Hand Held. It describs the fact of holding the element of the non-dominant hand/the nature of the element held?
 

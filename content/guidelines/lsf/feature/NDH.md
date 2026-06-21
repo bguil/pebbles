@@ -1,5 +1,5 @@
 ---
-title:  Non-Dominant Hand
+title: NDH
 request: pattern { X [NDH] }
 scope:
   schema: SUD
@@ -8,6 +8,8 @@ type: doc
 tags: 
  - feature
 ---
+
+# Non-Dominant Hand
 
 NDH stands for Non-Dominant Hand. This feature is used when a different semantic entity is realized simultaneously by the non-dominant hand ('main dominée' in the French literature). 
 

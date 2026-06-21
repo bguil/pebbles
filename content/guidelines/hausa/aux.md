@@ -3,7 +3,7 @@ title:  upos AUX
 request: pattern { X [upos=AUX] }
 scope:
   schema: SUD
-  lang: hau
+  lang: ha
 type: doc
 tags: 
  - upos

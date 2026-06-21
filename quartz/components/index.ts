@@ -23,6 +23,8 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+
+import PageEdit from "./PageEdit"
 import Request from "./Request"
 
 export {
@@ -51,5 +53,7 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+
+  PageEdit,
   Request,
 }

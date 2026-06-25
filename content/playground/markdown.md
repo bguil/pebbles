@@ -1,16 +1,21 @@
 ---
-title: Callout examples
+title: Markdown
 ---
 
-See [documentation on supported types and syntax here](https://help.obsidian.md/Editing+and+formatting/Callouts).
 
-> [!info] Title
-> This is an *info* callout!
+# Markdown syntax
 
-> [!warning] Warning callout
-> This is an *warning* callout!
+**Markdown** is the syntax used to encode pages.
 
-## Showcase
+See [this guide](https://www.markdownguide.org/basic-syntax/) to learn the basic syntax.
+
+Some other links where one can find more about Markdown syntax and examples:
+ - [Basic formatting syntax](https://obsidian.md/help/syntax)
+ - [Advanced formatting syntax](https://obsidian.md/help/advanced-syntax)
+ - [Tags](https://obsidian.md/help/tags)
+ - [Callouts](https://help.obsidian.md/Editing+and+formatting/Callouts) are used to highlight some part of a page (see examples below).
+
+## Callout examples
 
 > [!info]
 > Default title

@@ -1,5 +1,5 @@
 ---
-title: SUD dedrels
+title: SUD deprels
 type: doc
 tags: 
  - deprel

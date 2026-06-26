@@ -1,19 +1,17 @@
 ---
-title:  conj:reform
+title: conj:reform
 request: pattern { X -[conj:reform]-> Y }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - deprel
 ---
 
 The deprel `conj:reform` is used for dependency relation in which the elements are similar but not identical, the second one is used as a reformulation.
 
 <conll>
-# user_id = lg565
-# timestamp = 1775036580729
 # sent_id = crdo-fsl-cuc022__8
 # source_file = ./CUC022_low.mp4
 # text_fr = Il heurte la barrière et tombe. Il a mal, à la jambe. L'oiseau, voyant la chute, s'envole chercher

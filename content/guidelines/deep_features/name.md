@@ -4,20 +4,19 @@ request: pattern { X -[deep=name]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
 
 # `@name`
 
-## Universal 
+## Universal
 The deep feature `@name` is used in combination with the `flat` relation, moslty in proper nouns.
 See [table](https://tables.grew.fr/?data=sud_deps/DEPS&cols=@name) for the use of `flat@name` in SUD.
 
-> Finnish
-
 <conll>
+# lang = Finnish
 # sent_id = w01142031
 # text = Juhana Gent kuoli vuonna 1399.
 # text_en = John of Gaunt died in 1399.
@@ -29,9 +28,8 @@ See [table](https://tables.grew.fr/?data=sud_deps/DEPS&cols=@name) for the use o
 6	.	.	PUNCT	_	_	3	punct	_	_
 </conll>
 
-> French
-
 <conll>
+# lang = French
 # text = c'est euh ça s'appelle Casela Aventures.
 # text_en = it is um it is called Casela Aventures.
 1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	SpaceAfter=No

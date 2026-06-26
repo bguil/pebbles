@@ -1,10 +1,10 @@
 ---
-title:  conj:dicto
+title: conj:dicto
 request: pattern { X -[1=conj, 2=dicto]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - spoken
  - deprel
 ---
@@ -13,8 +13,8 @@ This relation is used to indicate difluencies when a speaker corrects his speech
 
 The ability of `conj:dicto` to analyse both disfluencies and reformulations is the reason why we don't use the the [`reparandum`](https://universaldependencies.org/u/dep/reparandum.html) relationship as used in UD.
 
-## French
-<Conll>
+<conll>
+# lang = French
 # text = puisque les les les les c~ les capitales les grandes villes ne me disaient rien du tout
 # text_en = since I didn't know anything at all about the the the the c ~ the capitals the big cities
 1	puisque	puisque	SCONJ	_	_	0	root	_	Gloss=since
@@ -36,9 +36,10 @@ The ability of `conj:dicto` to analyse both disfluencies and reformulations is t
 16	de	de	ADP	_	_	15	mod	_	Gloss=of
 17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Gloss=it
 18	tout	tout	ADV	_	_	16	comp:obj	_	Gloss=all
-</Conll>
+</conll>
 
-<Conll>
+<conll>
+# lang = French
 # sent_id = ParisStories_2019_stagePrimaire_15
 # text = j'ai j'ai vraiment adoré ce côté là .
 # text_en = I did I did really like that part
@@ -52,10 +53,10 @@ The ability of `conj:dicto` to analyse both disfluencies and reformulations is t
 8	côté	côté	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	Gloss=part
 9	là	là	ADV	_	_	8	mod	_	Gloss=that
 10	.	.	PUNCT	_	_	_	_	_	_
-</Conll>
+</conll>
 
-## Naija
-<Conll>
+<conll>
+# lang = Naija
 # sent_id = JOS_10_Mothers-Against-Mini-Skirts_DG__79
 # sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/JOS_10_Mothers-Against-Mini-Skirts_DG.mp3
 # speaker_id = Sp125
@@ -75,7 +76,7 @@ The ability of `conj:dicto` to analyse both disfluencies and reformulations is t
 11	skirt	skirt	NOUN	_	_	8	comp:obj	_	AlignBegin=146312|AlignEnd=146600|Gloss=skirt|Lang=en
 12	o	o	PART	_	PartType=Disc	11	mod:emph	_	AlignBegin=146600|AlignEnd=146888|Gloss=EMPH|Lang=en
 13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=146888|AlignEnd=146888|Gloss=PUNCT
-</Conll>
+</conll>
 
 Note that `conj:dicto` (SUD) considers the first element as the head of the next one, while `reparandum` (UD) considers these constructions as reparations and considers the last element as head.
 
@@ -85,8 +86,8 @@ This may result in some incoherencies. Note the following example. In this sente
 
 In SUD we decided to adopt the following analysis.
 
-## French
-<Conll>
+<conll>
+# lang = French
 # text = C' é~ c' était vraiment
 # text_en = It w~ it was really
 1	C'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	Gloss=it
@@ -94,7 +95,7 @@ In SUD we decided to adopt the following analysis.
 3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	subj	_	Gloss=it
 4	était	être	AUX	conj:reform	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	conj:dicto	_	Gloss=was
 5	vraiment	vraiment	ADV	_	_	4	mod	_	Gloss=really
-</Conll>
+</conll>
 
 > [!tips]
 > For more examples on disfluencies, you can refer to the [disfluency](guidelines/construction/disfluency.md) page.

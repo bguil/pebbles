@@ -1,19 +1,17 @@
 ---
-title:  conj:redup
+title: conj:redup
 request: pattern { X -[conj:redup]-> Y }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - deprel
 ---
 
 The deprel `conj:redup` is used for dependency relation between two identical elements, realized without disfluency.
 
 <conll>
-# user_id = lg565
-# timestamp = 1775556623383
 # sent_id = trajet-len-1-signerA_4
 # text = [OUI] [À-CÔTÉ] [LA?] [DESCENDRE] [BUS] [NUMÉRO] [VINGT] [SEPT] [BUS]
 # source_file = ./Trajet_LEN_1.mp4

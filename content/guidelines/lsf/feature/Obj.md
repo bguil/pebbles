@@ -1,11 +1,11 @@
 ---
-title:  Obj
+title: Obj
 request: pattern { X [Obj] }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - feature
 ---
 

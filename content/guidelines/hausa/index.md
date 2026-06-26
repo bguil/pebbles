@@ -1,7 +1,7 @@
 ---
 title: Hausa
 type: doc
-tags: 
+tags:
 ---
 
 # General page Hausa

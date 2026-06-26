@@ -4,7 +4,7 @@ request: pattern { X -[deep=fixed]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 

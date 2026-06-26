@@ -1,11 +1,11 @@
 ---
-title:  upos AUX
+title: upos AUX
 request: pattern { X [upos=AUX] }
 scope:
   schema: SUD
   lang: ha
 type: doc
-tags: 
+tags:
  - upos
 ---
 

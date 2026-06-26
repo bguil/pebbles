@@ -2,16 +2,16 @@
 title: Lemmatisation for PronType=Prs
 request: |
   pattern { X [upos=PRON,PronType=Prs, !Typo] }
-  without { X[form=/-?en/i, lemma="en"]} 
-  without { X[form=/-?y'?/i, lemma="y"]} 
+  without { X[form=/-?en/i, lemma="en"]}
+  without { X[form=/-?y'?/i, lemma="y"]}
 
   without { X[form=/ils?/i, lemma="lui"]}
   without { X[form=/-ils?/i, lemma="lui"]}
   without { X[form=/-t-ils?/i, lemma="lui"]}
-  without { X[form=/elles?/i, lemma="lui"]} 
+  without { X[form=/elles?/i, lemma="lui"]}
   without { X[form=/-elles?/i, lemma="lui"]}
   without { X[form=/-t-elle?/i, lemma="lui"]}
-  without { X[form=/lui/i, lemma="lui"]} 
+  without { X[form=/lui/i, lemma="lui"]}
   without { X[form=/l[ae']/i, lemma="lui"]}
   without { X[form=/les/i, lemma="lui"]}
   without { X[form=/leur/i, lemma="lui"]}

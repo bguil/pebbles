@@ -1,11 +1,11 @@
 ---
-title:  GazeHeld
+title: GazeHeld
 request: pattern { X -[GazeHeld]-> Y }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - feature
 ---
 

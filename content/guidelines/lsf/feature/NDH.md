@@ -5,17 +5,15 @@ scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - feature
 ---
 
 # Non-Dominant Hand
 
-NDH stands for Non-Dominant Hand. This feature is used when a different semantic entity is realized simultaneously by the non-dominant hand ('main dominée' in the French literature). 
+NDH stands for Non-Dominant Hand. This feature is used when a different semantic entity is realized simultaneously by the non-dominant hand ('main dominée' in the French literature).
 
 <conll>
-# user_id = lg565
-# timestamp = 1775234395722
 # sent_id = vacances-sud_24
 # text = [RENTRER] [EAU] [avancer] [marcher-difficilement] [rochers-dans-les-pieds] [marcher-difficilement] [NAGER] [AGRÉABLE]
 # source_file = ./recit-agnieska.mp4

@@ -4,7 +4,7 @@ request: pattern { X -[deep=relcl]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
@@ -15,9 +15,8 @@ tags:
 The `@relcl` feature is used for the relation between the head of a relative clause and its antecedent.
 See [table](https://tables.grew.fr/?data=sud_deps/DEPS&cols=@relcl) for the use of `@relcl` in SUD.
 
-> English
-
 <conll>
+# lang = English
 1	This	this	PRON	_	_	2	subj	_	_
 2	is	be	AUX	_	_	0	root	_	_
 3	money	money	NOUN	_	_	2	comp:pred	_	highlight=red
@@ -26,9 +25,8 @@ See [table](https://tables.grew.fr/?data=sud_deps/DEPS&cols=@relcl) for the use 
 6	earned	earn	VERB	_	_	5	comp:aux@tense	_	_
 </conll>
 
-> Russian
-
 <conll>
+# lang = Russian
 # sent_id = w02004065
 # text = Существуют разные теории, почему место было покинуто.
 # text_en = There are different theories about the reasons for leaving the place.

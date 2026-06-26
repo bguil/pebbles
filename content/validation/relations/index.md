@@ -1,3 +1,3 @@
 ---
-title: Dependency Relations 
+title: Dependency Relations
 ---

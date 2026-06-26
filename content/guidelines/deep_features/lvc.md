@@ -4,12 +4,12 @@ request: pattern { X -[deep=lvc]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
 
-# Light Verb Construction 
+# Light Verb Construction
 
 A light verb construction (LVC) is a type of verbal structure in which a verb is coupled with another element – typically a noun phrase – which provides the primary semantic value.
 Common examples of LVCs in English include *take a walk*, *give a kiss*, or *have a drink*.
@@ -17,9 +17,8 @@ In SUD, LVCs are marked with the deep feature `@lvc`.
 
 Note that in case of a LVC, the arguments of the LVC attached to the predicative noun are `comp`and not `udep`.
 
-> Light verb construction (French)
-
 <conll>
+# lang = French
 # text = faire face à la situation
 # text_en = He faces the situation
 1	Il	il	PRON	_	_	2	subj	_	Gloss=he
@@ -37,9 +36,10 @@ The complements of these constructions are sometimes attached to the noun rather
 
 This first criterion explains the differing interpretations of the following two sentences. _A date with his girlfriend_ forms a perfectly coherent phrase which allows for reformulations such as _the date with his girlfriend, it was pleasant_. However, _part in the discussion_ is less semantically transparent and therefore less prone to such reformulations. Because of this, the verb _take_ is treated as the head of the complement.
 
-> Attachment of dependents of the LVC (English)
+> Attachment of dependents of the LVC
 
 <conll>
+# lang = English
 1	He	he	PRON	_	_	2	subj	_	_
 2	has	have	VERB	_	_	0	root	_	_
 3	a	a	DET	_	_	4	det	_	_
@@ -50,6 +50,7 @@ This first criterion explains the differing interpretations of the following two
 </conll>
 
 <conll>
+# lang = English
 1	take	take	VERB	_	_	0	root	_	_
 2	part	part	NOUN	_	_	1	comp:obj@lvc	_	_
 3	in	in	ADP	_	_	1	comp:obl	_	_

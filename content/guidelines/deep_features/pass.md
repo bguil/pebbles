@@ -4,7 +4,7 @@ request: pattern { X -[deep=pass]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
@@ -17,17 +17,15 @@ The `@pass` deep feature is used for the arguments of **passive auxiliaries**.
 The relation between the auxiliary and the verb is marked `comp:aux@pass` and the subject of the auxiliary bears the `subj@pass` relation.
 
 
-> English
-
 <conll>
+# lang = English
 1	They	they	PRON	_	_	2	subj@pass	_	_
 2	were	be	AUX	_	_	0	root	_	_
 3	killed	kill	VERB	_	_	2	comp:aux@pass	_	_
 </conll>
 
-> French
-
 <conll>
+# lang = French
 # text = Le château est ensuite vendu
 # text_en = Later the castle is sold
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Art	2	det	_	Gloss=The
@@ -41,9 +39,8 @@ The relation between the auxiliary and the verb is marked `comp:aux@pass` and th
 In case of **passive reflexive constructions**, the subject is analysed with a regular `subj` relation and the pronoun with the `comp@pass` relation.
 For more information, see the [`comp` page](../Syntactic_relations/comp/comp) @@@.
 
-> French
-
 <conll>
+# lang = French
 # text = L'affaire se complique un peu
 # text_en = The case gets a little complicated
 1	L'	le	DET	_	Definite=Def|Number=Sing|Person=3|PronType=Art	2	det	_	SpaceAfter=No|Gloss=The
@@ -56,9 +53,8 @@ For more information, see the [`comp` page](../Syntactic_relations/comp/comp) @@
 
 Complements of the verbs in a passive construction are marked `comp:obj@pass`
 
-> French
-
 <conll>
+# lang = French
 # text_en = It is decided that the execution of the sentence is postponed
 # text = Il est décidé que l'exécution de la sentence soit différé
 1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj@expl	_	Gloss=It

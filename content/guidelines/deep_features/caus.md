@@ -4,7 +4,7 @@ request: pattern { X -[deep=caus]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
@@ -16,9 +16,10 @@ The `@caus` feature is used for causative constructions:
 - the promoted subject is analyzed `subj@caus`(while the demoted subject, if present, should have a [`@agent`](./agent.md) deep subrelation;
 - the relation between the causative auxiliary (when the causative construction uses one) and the verb is `comp:aux@caus`.
 
-> Causative construction (French)
+> Causative construction
 
 <conll>
+# lang = French
 # text = Il fait accélérer ses troupes
 # text_en = He makes his troops go faster
 1	Il	il	PRON	_	_	2	subj@caus	_	Gloss=he

@@ -1,11 +1,11 @@
 ---
-title:  DHHeld
+title: DHHeld
 request: pattern { X -[DHHeld]-> Y }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - feature
 ---
 

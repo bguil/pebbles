@@ -4,7 +4,7 @@ request: pattern { X -[deep=x]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
@@ -21,9 +21,8 @@ The `@x` deep feature was used to annotate relationships with verbs that do not 
 This relationship therefore applies essentially to infinitive verbs which relate to a subject introduced earlier in the sentence.
 For example, in the sentence *he wants to eat*, *he* has a clear semantic relationship with *to eat*.
 
-> English
-
 <conll>
+# lang = English
 1	He	he	PRON	_	_	2	subj	_	_
 2	did	do	AUX	_	_	0	root	_	_
 3	not	not	PART	_	_	4	mod	_	_
@@ -34,9 +33,8 @@ For example, in the sentence *he wants to eat*, *he* has a clear semantic relati
 8	down	down	PART	_	_	7	mod	_	_
 </conll>
 
-> English
-
 <conll>
+# lang = English
 1	the	the	DET	_	_	2	det	_	_
 2	developer	developer	NOUN	_	_	3	subj	_	_
 3	has	have	AUX	_	_	0	root	_	_
@@ -52,9 +50,8 @@ For example, in the sentence *he wants to eat*, *he* has a clear semantic relati
 
 While this feature is most often used in relationships between finite verbs and the infinitives they govern, note that the governing element does not necessarily need to be a verb. The following example highlights how the `@x`feature can apply to the relation between an infinitive and a governing adjective.
 
-> English
-
 <conll>
+# lang = English
 1	I	I	PRON	_	_	2	subj	_	_
 2	am	be	VERB	_	_	0	root	_	_
 3	proud	proud	ADJ	_	_	2	comp:pred	_	_

@@ -1,14 +1,14 @@
 ---
-title:  reparandum
+title: reparandum
 request: pattern { X -[reparandum]-> Y }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - deprel
 ---
 
-# 
+#
 
 for false questions

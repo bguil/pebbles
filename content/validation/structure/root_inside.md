@@ -1,7 +1,7 @@
 ---
 title: Root inside
 request: |
-  pattern { 
+  pattern {
     X[form <> "__0__"];
     X -[1=root]-> Y;
   }

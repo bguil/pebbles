@@ -1,11 +1,11 @@
 ---
-title:  Exp[lex]
+title: Exp[lex]
 request: pattern { X [Exp__lex] }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - feature
 ---
 

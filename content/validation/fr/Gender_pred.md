@@ -2,7 +2,7 @@
 title: Gender agreement in predicative construction
 request: |
   pattern {
-    A -[comp:pred]-> B; 
+    A -[comp:pred]-> B;
     A -[1=subj]-> C;
     B[upos=ADJ|VERB];
     C.Gender <> B.Gender

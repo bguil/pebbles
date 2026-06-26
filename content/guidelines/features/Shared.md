@@ -1,10 +1,10 @@
 ---
-title:  Shared
+title: Shared
 request: pattern { X [Shared] }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - coordinating-conjunction
  - feature
 ---
@@ -17,6 +17,7 @@ As a consequence, left and right dependents on a coordination are marked with fe
 
 
 <conll>
+# lang = French
 # sent_id = fr-ud-train_02779
 # text = Elle a écrit ou co-écrit 21 articles.
 # text_en = She has written or co-written 21 articles.
@@ -31,6 +32,7 @@ As a consequence, left and right dependents on a coordination are marked with fe
 </conll>
 
 <conll>
+# lang = French
 # sent_id = fr-ud-dev_00823
 # text = Puis viens et suis-moi !
 1	Puis	puis	CCONJ	_	_	2	cc	_	wordform=puis

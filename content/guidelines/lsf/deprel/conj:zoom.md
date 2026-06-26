@@ -1,19 +1,17 @@
 ---
-title:  conj:zoom
+title: conj:zoom
 request: pattern { X -[conj:zoom]-> Y }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - deprel
 ---
 
 The deprel `conj:zoom` is used for dependency relation in which the second element is describing the referent more in details.
 
 <conll>
-# user_id = lg565
-# timestamp = 1775139976368
 # sent_id = vacances-sud_4
 # text = PNT [PASSÉ-PROCHE] [DIMANCHE]-[AVANT] [FAMILLE] [RÉUNIR] [MANGER] [BAVARDER] [ÉCHANGER]
 # source_file = ./recit-agnieska.mp4

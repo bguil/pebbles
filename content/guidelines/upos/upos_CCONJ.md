@@ -4,7 +4,7 @@ request: pattern { X[upos = CCONJ] }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - coordinating-conjunction
  - upos
 ---

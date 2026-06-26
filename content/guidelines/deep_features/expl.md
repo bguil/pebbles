@@ -4,19 +4,18 @@ request: pattern { X -[deep=expl]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
 # Expletive
 
-## Universal 
-
 The `@expl` feature is used for arguments of predicates without semantic content (impersonal subjects for instance). In UD, such elements ara analyzed with `expl`, without indicating their surface syntactic function. The feature `@expl`allows us to compine the surface syntactic relation with these more semantic information.
 
-> Impersonal subject (English)
+## Impersonal subject
 
 <conll>
+# lang = English
 1	it	it	PRON	_	_	2	subj@expl	_	highlight=red
 2	is	be	AUX	_	_	0	root	_	highlight=red
 3	also	also	ADV	_	_	4	mod	_	_
@@ -27,6 +26,7 @@ The `@expl` feature is used for arguments of predicates without semantic content
 </conll>
 
 <conll>
+# lang = English
 1	it	it	PRON	_	_	2	subj@expl	_	highlight=red
 2	rains	rain	VERB	_	_	0	root	_	highlight=red
 3	a	a	DET	_	_	4	det	_	_
@@ -38,6 +38,7 @@ The `@expl` feature is used for arguments of predicates without semantic content
 In the conversion UD => SUD of `expl`, we use the relation `comp@expl`:
 
 <conll>
+# lang = English
 # text = There was no explanation.
 1	There	there	PRON	EX	_	2	comp@expl	_	highlight=red
 2	was	be	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Cxn=Existential-CopPred-ThereExpl|highlight=red
@@ -46,11 +47,10 @@ In the conversion UD => SUD of `expl`, we use the relation `comp@expl`:
 5	.	.	PUNCT	.	_	2	punct	_	_
 </conll>
 
-This feature can also be used to annotate clitic doubling, such as repeated subjects in certain French interrogative constructions.
-
-> Clitic doubling (French)
+This feature can also be used to annotate clitic doubling, such as repeated subjects in certain French interrogative constructions:
 
 <conll>
+# lang = French
 # text = Jean vient-il demain ?
 # text_en = Is Jean coming tomorrow?
 1	Jean	Jean	PROPN	_	_	2	subj	_	Gloss=Jean

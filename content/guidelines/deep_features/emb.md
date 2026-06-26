@@ -4,7 +4,7 @@ request: pattern { X -[deep=emb]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - coordinating-conjunction
  - deep-feature
 ---
@@ -15,7 +15,8 @@ The deep feature `@emb` is used only with the relation [`conj:coord`](guidelines
 
 > [!tips] See [construction page about coordination](guidelines/construction/coordination) for more details.
 
-<Conll>
+<conll>
+# lang = English
 # text = John, Mary or her brother and Peter will come
 1	John	John	PROPN	_	_	9	subj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
@@ -27,4 +28,4 @@ The deep feature `@emb` is used only with the relation [`conj:coord`](guidelines
 8	Peter	Peter	PROPN	_	_	6	conj:coord	_	_
 9	will	will	AUX	_	_	0	root	_	_
 10	come	come	VERB	_	_	9	comp:aux	_	_
-</Conll>
+</conll>

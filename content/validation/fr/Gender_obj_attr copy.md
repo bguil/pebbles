@@ -2,7 +2,7 @@
 title: Number agreement with object attribute
 request: |
   pattern {
-    A -[comp:pred]-> B; 
+    A -[comp:pred]-> B;
     A -[comp:obj]-> C;
     B[upos=ADJ|VERB];
     C.Gender <> B.Gender

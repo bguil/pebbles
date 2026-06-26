@@ -5,7 +5,7 @@ scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - feature
 ---
 
@@ -14,8 +14,6 @@ tags:
 NDHHeld stands for Non-Dominant Hand Held. It describs the fact of holding the element of the non-dominant hand/the nature of the element held?
 
 <conll>
-# user_id = lg565
-# timestamp = 1775564604946
 # sent_id = vacances-sud_1
 # text = [PASSÉ-PROCHE] [VACANCES] [ÉTÉ] [euh] [PARTIR] [OÙ] [FRANCE] [carte-france] [SUD] [région-sud] mains-jointes
 # source_file = ./recit-agnieska.mp4

@@ -4,21 +4,20 @@ request: pattern { X -[deep=foreign]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
 # `@foreign`
 
-## Universal 
+## Universal
 
 The `@foreign` feature is used with the `flat` relation for annotation of foreign language phrases.
 Note that foreign tokens are tagged `upos=X` and `Foreign=Yes`.
 An `ExtPos` feature can indicate the role of the foreign phrase.
 
-> English
-
 <conll>
+# lang = English
 # sent_id = en_partut-ud-1757
 # text = The influence of Paris permeates La Comédie.
 1	The	the	DET	RD	Definite=Def|PronType=Art	2	det	_	_

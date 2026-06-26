@@ -4,7 +4,7 @@ request: pattern { X -[deep=tense]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
@@ -14,9 +14,8 @@ tags:
 
 The `@tense` feature is used for the argument of tense auxiliaries.
 
-> English
-
 <conll>
+# lang = English
 1	This	this	PRON	_	_	2	subj	_	_
 2	is	be	AUX	_	_	0	root	_	_
 3	money	money	NOUN	_	_	2	comp:pred	_	_

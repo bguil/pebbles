@@ -1,14 +1,14 @@
 ---
 title: French Sign Language
 type: doc
-tags: 
+tags:
 ---
 
 # General page LSF
 
 description des vidéos (signeurs, types)
 
-segmentation, 
+segmentation,
 crochet, composés etc
 majuscules, minuscules
 

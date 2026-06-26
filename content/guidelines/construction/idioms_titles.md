@@ -3,7 +3,7 @@ title: Idioms and Titles
 scope:
   schema: SUD
 type: construction
-tags: 
+tags:
  - idioms
 ---
 
@@ -33,9 +33,8 @@ pattern { X[Title] }
 
 ### With internal syntactic relations
 
-> English 
-
 <conll>
+# lang = English
 1	Karen	Karen	PROPN	_	_	2	subj	_	_
 2	loved	love	VERB	_	_	0	root	_	_
 3	One	one	PRON	_	_	4	subj	_	InTitle=Yes|highlight=red
@@ -47,9 +46,8 @@ pattern { X[Title] }
 9	Nest	nest	VERB	_	_	5	comp:obj	_	InTitle=Yes|highlight=red
 </conll>
 
-> English
-
 <conll>
+# lang = English
 1	That	that	PRON	_	_	2	subj@pass	_	InIdiom=Yes|highlight=red
 2	said	say	VERB	_	ExtPos=ADV	5	mod	_	Idiom=Yes|highlight=red
 3	,	,	PUNCT	_	_	2	punct	_	_
@@ -60,9 +58,8 @@ pattern { X[Title] }
 8	favorite	favorite	NOUN	_	_	5	comp:pred	_	_
 </conll>
 
-> English
-
 <conll>
+# lang = English
 1	Finance	finance	NOUN	_	_	4	subj	_	_
 2	and	and	CCONJ	_	_	3	cc	_	_
 3	mentorship	mentorship	NOUN	_	_	1	conj	_	_
@@ -73,9 +70,8 @@ pattern { X[Title] }
 8	hand	hand	NOUN	_	InIdiom=Yes	7	comp:obj	_	highlight=red
 </conll>
 
-> Spanish
-
 <conll>
+# lang = Spanish
 # text_en = His name is Alejandro.
 1	Se	se	PRON	_	_	2	comp	_	Gloss=himself|InIdiom=Yes|highlight=red
 2	llama	llamar	VERB	_	ExtPos=VERB	0	root	_	Gloss=calls|Idiom=Yes|highlight=red
@@ -83,12 +79,11 @@ pattern { X[Title] }
 </conll>
 
 
-### Without internal syntactic relations 
+### Without internal syntactic relations
 When there is no clear internal syntactic structure, the relation `unk` is used.
 
-> English
-
 <conll>
+# lang = English
 1	Let	let	VERB	_	_	0	root	_	_
 2	me	I	PRON	_	_	1	comp:obj	_	_
 3	know	know	VERB	_	_	1	comp:pred	_	_
@@ -102,9 +97,8 @@ When there is no clear internal syntactic structure, the relation `unk` is used.
 11	can	can	AUX	_	_	7	comp:obj	_	_
 </conll>
 
-> French
-
 <conll>
+# lang = French
 # sent_id = fr-ud-train_10134__shorten
 # text_en = I found the rates applied here to be quite correct.
 # text = j'ai trouvé tout à fait correct les tarifs appliqués ici.

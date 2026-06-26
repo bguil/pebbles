@@ -1,7 +1,7 @@
 ---
 title: SUD deprels
 type: doc
-tags: 
+tags:
  - deprel
 ---
 

@@ -1,10 +1,10 @@
 ---
-title:  conj:coord
+title: conj:coord
 request: pattern { X -[1=conj, 2=coord]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - coordinating-conjunction
  - deprel
 ---
@@ -13,10 +13,8 @@ The `conj:coord` relation is used to link elements connected with a coordinating
 The conjunction itself is linked to the second element with a [`cc`](https://universaldependencies.org/u/dep/cc.html) relation.
 It is analogous to [`conj`](https://universaldependencies.org/u/dep/conj.html) relation in UD.
 
-
-## French
-
-<Conll>
+<conll>
+# lang = French
 # text = Elle saura conjuguer le changement et la cohésion sociale l' esprit d' initiative et la sécurité la modernité et le bien vivre ensemble
 # text_en = She will be able to combine change and social cohesion, a spirit of initiative and security, modernity and living well together.
 1	Elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	subj	_	Gloss=she
@@ -42,11 +40,10 @@ It is analogous to [`conj`](https://universaldependencies.org/u/dep/conj.html) r
 21	bien	bien	ADV	_	_	22	mod	_	Gloss=well
 22	vivre	vivre	VERB	_	VerbForm=Inf	18	conj:coord	_	Gloss=living
 23	ensemble	ensemble	ADV	_	_	22	mod	_	Gloss=together
-</Conll>
+</conll>
 
-## Naija
-
-<Conll>
+<conll>
+# lang = Naija
 # sent_id = KAD_22_Chatting-At-The-Restaurant_DG__134
 # sound_url = http://www.tal.univ-paris3.fr/trameur/iTrameur-naija/mp3/KAD_22_Chatting-At-The-Restaurant_DG.mp3
 # speaker_id = Sp205
@@ -72,7 +69,7 @@ It is analogous to [`conj`](https://universaldependencies.org/u/dep/conj.html) r
 17	Everywhere	everywhere	ADV	_	_	15	conj:coord	_	AlignBegin=231154|AlignEnd=231552|Gloss=everywhere
 18	}	}	PUNCT	_	_	11	punct	_	AlignBegin=231552|AlignEnd=231552|Gloss=PUNCT
 19	//	//	PUNCT	_	_	5	punct	_	AlignBegin=231552|AlignEnd=231552|Gloss=PUNCT
-</Conll>
+</conll>
 
 The relation can be used with the deep extension [`emb`](guidelines/deep_features/emb), see [coordination construction page](../../Universal_construction/coordination.md#embedded-coordination).
 

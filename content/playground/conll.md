@@ -17,6 +17,7 @@ For this, `conll` code can directly be embedded in the page by adding using the 
 A SUD annotation example:
 
 <conll>
+# lang = English
 # text = I'm happy about this.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	SpaceAfter=No
 2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -26,6 +27,7 @@ A SUD annotation example:
 6	.	.	PUNCT	.	_	2	punct	_	_
 </conll>
 
+Note that the metadata `lang` is required in pages that are not specific to only one language.
 
 Colors can be added on tokens with a features `highlight=red` in MISC column:
 
@@ -36,6 +38,7 @@ Colors can be added on tokens with a features `highlight=red` in MISC column:
 ```
 
 <conll>
+# lang = English
 # text = I'm happy about this.
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj	_	SpaceAfter=No
 2	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -50,6 +53,7 @@ To avoid confusion, we use the tag: `<conll schema="ud">`, which has a different
 UD example:
 
 <conll schema="ud">
+# lang = English
 # sent_id = email-enronsent19_01-0071
 # text = I'm happy about this.
 1-2	I'm	_	_	_	_	_	_	_	_

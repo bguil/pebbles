@@ -1,7 +1,7 @@
 ---
 title: subj main rel
 type: doc
-tags: 
+tags:
  - deprel
 ---
 

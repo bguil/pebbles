@@ -3,7 +3,7 @@ title: Disfluency
 scope:
   schema: SUD
 type: construction
-tags: 
+tags:
  - coordinating-conjunction
  - spoken
 ---
@@ -17,11 +17,10 @@ They may repeat a word until they find the right one, or they may try with one w
 
 To analyse repetition or reformulation, we use the relation [`conj:dicto`](guidelines/deprel/conj_dicto).
 
-> French
-
 <conll>
+# lang = French
 # text = Euh, et c'était, bah c'était super bien, euh super spacieux.
-# text_en = Um, it was, well it was really great, um super spacious. 
+# text_en = Um, it was, well it was really great, um super spacious.
 1	euh	euh	INTJ	_	_	5	discourse	_	Gloss=um
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	et	et	CCONJ	_	_	5	cc	_	Gloss=and
@@ -43,11 +42,10 @@ To analyse repetition or reformulation, we use the relation [`conj:dicto`](guide
 
 The [`conj:dicto`](guidelines/deprel/conj_dicto) relation applies also when the linked words are not the same.
 
-> French
-
 <conll>
+# lang = French
 # text = on sait euh la quantité euh le nombre de kilos de litres effectivement de produits
-# text_en = we know uh the quantity uh the number of kilos of liters actually of products 
+# text_en = we know uh the quantity uh the number of kilos of liters actually of products
 1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	Gloss=we
 2	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=know
 3	euh	euh	INTJ	_	_	4	discourse	_	Gloss=um
@@ -73,9 +71,8 @@ pattern { X -[conj:dicto]-> Y }
 
 Sometimes speakers utter a half-finished construction. In this case, a word cannot be attached to its head, because the speaker decided not to say it.
 
-> French
-
 <conll>
+# lang = French
 # text = Je lis son le portrait de notre de votre héros
 # text_en = I'im reading his the portrayal of our of your hero
 1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	Gloss=I
@@ -94,9 +91,8 @@ In this example, the construction *Je lis son le portrait de notre de votre hér
 
 If the sentence was *portrait de notre votre héros* (English: *portrayal of our your hero*) we could use the [`conj:dicto`](../Syntactic_relations/conj/conj_dicto.md) relation to attach *votre* to *notre*.
 
-> French
-
 <conll>
+# lang = French
 # text = portrait de notre votre héros
 # text_en = portrayal of our your hero
 1	portrait	portrait	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Gloss=portrayal
@@ -110,9 +106,8 @@ In these cases, we prefer to attach the two words *de* with a [`conj:dicto`](gui
 
 Below we can see an example when a speaker starts with one word, then decides it doesn't fit and searches for a more fitting word.
 
-> French
-
 <conll>
+# lang = French
 # text = c'est-à-dire que le m~ le le virus sait faire sa propre besogne de lui-même
 # text_en = that means that the virus can do its own work
 1	c'est-à-dire	c'est-à-dire	CCONJ	_	ExtPos=CCONJ	0	root	_	Gloss=that_means|Idiom=Yes

@@ -3,7 +3,7 @@ title: Coordination
 scope:
   schema: SUD
 type: construction
-tags: 
+tags:
  - coordinating-conjunction
 ---
 
@@ -15,8 +15,8 @@ In SUD, when a coordination concerns more than two conjuncts, each conjunct is a
 This helps to reduce cumbersome long-distance relations.
 We also believe it to be a more accurate representation of the cognitive process of coordination.
 
-### English 
-<Conll>
+<conll>
+# lang = English
 1	John	John	PROPN	_	_	6	subj	_	_
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	Mary	Mary	PROPN	_	_	1	conj:coord	_	_
@@ -24,12 +24,12 @@ We also believe it to be a more accurate representation of the cognitive process
 5	Peter	Peter	PROPN	_	_	3	conj:coord	_	_
 6	will	will	AUX	_	_	0	root	_	_
 7	come	come	VERB	_	_	6	comp:aux	_	_
-</Conll>
+</conll>
 
 Note that it is different from UD annotation where all conjuncts of a coordination are attached to the head of the first conjunct in a bouquet.
 
-### English (UD)
 <conll schema="ud">
+# lang = English
 1	John	John	PROPN	_	_	7	nsubj	_	_
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	Mary	Mary	PROPN	_	_	1	conj	_	_
@@ -49,8 +49,8 @@ In natural corpora, however, there is typically only one level of iteration.
 The [`conj:coord`](guidelines/deprel/conj_coord) label does not make a distinction between embedded relations and surface relations because they form a single chain.
 However, these relations can be distinguished with the use of the extension [``@emb``](guidelines/deep/emb) for embedded coordinations.
 
-### English 
-<Conll>
+<conll>
+# lang = English
 # text = John, Mary or her brother and Peter will come
 1	John	John	PROPN	_	_	9	subj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
@@ -62,7 +62,7 @@ However, these relations can be distinguished with the use of the extension [``@
 8	Peter	Peter	PROPN	_	_	6	conj:coord	_	_
 9	will	will	AUX	_	_	0	root	_	_
 10	come	come	VERB	_	_	9	comp:aux	_	_
-</Conll>
+</conll>
 
 
 ## Shared dependents

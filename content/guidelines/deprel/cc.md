@@ -1,20 +1,20 @@
 ---
-title:  cc
+title: cc
 request: pattern { X -[1=cc]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - coordinating-conjunction
  - deprel
 ---
 
-The `cc` relation is used between a conjunct and an associated coordinating conjunction. 
+The `cc` relation is used between a conjunct and an associated coordinating conjunction.
 
 It is, in most of the cases, used with the relation [`conj:coord`](conj_coord).
 
-### French
 <conll>
+# lang = French
 # sent_id = fr-ud-train_07737
 # text = Des chambres spacieuses et propres.
 # text_en = Spacious and clean rooms.
@@ -26,7 +26,5 @@ It is, in most of the cases, used with the relation [`conj:coord`](conj_coord).
 6	.	.	PUNCT	_	_	2	punct	_	_
 </conll>
 
-
-
 > [!tips]
-> See also a global view of `cc` usage in the last release (2.17) in this [table](http://tables.grew.fr/?data=sud_deps/cc).
+> See also a global view of `cc` usage in the last release  [here](http://tables.grew.fr/?data=sud_deps/cc).

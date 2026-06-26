@@ -1,14 +1,14 @@
 ---
-title:  mark
+title: mark
 request: pattern { X -[mark]-> Y }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - deprel
 ---
 
-# 
+#
 
 for false questions

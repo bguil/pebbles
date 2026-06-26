@@ -1,19 +1,17 @@
 ---
-title:  conj:illustrate
+title: conj:illustrate
 request: pattern { X -[conj:illustrate]-> Y }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - deprel
 ---
 
 The deprel `conj:illustrate` is used for dependency relation the two elements refer to the same semantic entity and one uses a more iconic process than the other, or one that can be localized in space. It contributes to the visual representation of the discourse.
 
 <conll>
-# user_id = lg565
-# timestamp = 1775140815075
 # sent_id = vacances-sud_15
 # text = [PERSONNE] [PEU] [prm:personne]
 # source_file = ./recit-agnieska.mp4

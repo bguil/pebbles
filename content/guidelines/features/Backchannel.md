@@ -17,9 +17,11 @@ To be recognized as backchannels, such utterances (i) must be addressed to the c
 The backchannel feature is encoded as such: `Backchannel: ⟨sent_id⟩::⟨tok_id⟩`, on the root of the sentence where the backchannel occurs.
 
 <conll>
+# lang = French
 # sent_id = Rhap_D0009-205
 # speaker = L1
 # text = mais, bon, chacun va, va où il veut.
+# text_en = but, well, evreyone goes, goes where he want.
 1	mais	mais	CCONJ	_	_	6	cc	_	_
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	bon	bon	INTJ	_	_	6	discourse	_	_
@@ -35,9 +37,11 @@ The backchannel feature is encoded as such: `Backchannel: ⟨sent_id⟩::⟨tok_
 </conll>
 
 <conll>
+# lang = French
 # sent_id = Rhap_D0009-206
 # speaker = L2
 # text = mh, mh.
+# text_en = um, um.
 1	mh	mh	INTJ	_	_	0	root	_	Backchannel=Rhap_D0009-205::11|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	mh	mh	INTJ	_	_	1	conj:dicto	_	_

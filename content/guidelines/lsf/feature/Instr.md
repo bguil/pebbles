@@ -1,11 +1,11 @@
 ---
-title:  Instr
+title: Instr
 request: pattern { X [Instr] }
 scope:
   schema: SUD
   lang: fsl
 type: doc
-tags: 
+tags:
  - feature
 ---
 

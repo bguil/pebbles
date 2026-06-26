@@ -1,9 +1,9 @@
 ---
 title: punct_as_leaf
 request: |
-  pattern { 
+  pattern {
     X -[punct]-> Y;   %  If Y is a punct dependent
-    Y -[^punct]-> Z   %  It must be a leaf (except with another punct deprel) 
+    Y -[^punct]-> Z   %  It must be a leaf (except with another punct deprel)
   }
 scope:
   schema: SUD
@@ -15,7 +15,7 @@ The `punct` deprel should end with a leaf, with a few exceptions for notation li
 
 > **SUD_French-Sequoia**:
 
-<Conll>
+<conll>
 # sent_id = frwiki_50.1000_00378
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Mis	mettre	VERB	_	_	0	mod	_	_
@@ -24,4 +24,4 @@ The `punct` deprel should end with a leaf, with a few exceptions for notation li
 5	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	...	...	PUNCT	_	_	2	punct	_	SpaceAfter=No
 7	)	)	PUNCT	_	_	6	punct	_	_
-<Conll>
+<conll>

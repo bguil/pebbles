@@ -1,17 +1,18 @@
 ---
-title:  conj:appos
+title: conj:appos
 request: pattern { X -[1=conj, 2=appos]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - apposition
  - deprel
 ---
 
 The deprel `conj:appos` is used for dependency relation in apposition: the two elements refers to the same semantic entity.
 
-<Conll>
+<conll>
+# lang = French
 # text = Nietzsche le philosophe allemand parle de a une définition de l'art
 # text_en = Nietzsche the German philosopher speaks of has an art definition
 1	Nietzsche	Nietzsche	PROPN	_	_	5	subj	_	Gloss=Niezsche|highlight=red
@@ -26,4 +27,4 @@ The deprel `conj:appos` is used for dependency relation in apposition: the two e
 10	de	de	ADP	_	_	9	udep	_	Gloss=of
 11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	Gloss=the
 12	art	art	NOUN	_	Gender=Masc|Number=Sing	10	comp:obj	_	Gloss=art
-</Conll>
+</conll>

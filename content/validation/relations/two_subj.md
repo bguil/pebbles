@@ -14,7 +14,7 @@ Should not have two `subj` relations with the same governor (except with expleti
 
 An example with expletive:
 
-<Conll>
+<conll>
 # sent_id = fr-ud-train_12529
 # text = Ces chiffres sont-ils élevés ?
 1	Ces	ce	DET	_	Number=Plur|PronType=Dem	2	det	_	wordform=ces
@@ -23,4 +23,4 @@ An example with expletive:
 4	-ils	lui	PRON	_	Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	subj@expl	_	wordform=ils
 5	élevés	élevé	ADJ	_	Gender=Masc|Number=Plur	3	comp:pred	_	_
 6	?	?	PUNCT	_	_	3	punct	_	_
-</Conll>
+</conll>

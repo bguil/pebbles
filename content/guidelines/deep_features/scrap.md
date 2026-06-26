@@ -4,7 +4,7 @@ request: pattern { X -[deep=scrap]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deep-feature
 ---
 
@@ -12,9 +12,8 @@ In spoken data, sometimes speakers utter a half-finished construction.
 In that case, it may happen that a word cannot be attached to its head, because the speaker decided not to utter it.
 
 
-> **French**
-
 <conll>
+# lang = French
 # text = Je lis son le portrait de notre de votre héros
 # text_en = I'im reading his the portrayal of our of your hero
 1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj	_	Gloss=I

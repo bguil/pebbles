@@ -4,7 +4,7 @@ request: pattern { X -[subj@expl]-> Y }
 scope:
   schema: SUD
 type: doc
-tags: 
+tags:
  - deprel
 ---
 

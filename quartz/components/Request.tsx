@@ -47,6 +47,20 @@ function build_scope(frontmatter : any) : Scope {
   return { langs: langs, schemas: schemas }
 }
 
+function scope_to_strings(scope: Scope): string[] {
+  const parts: string[] = [];
+
+  if (scope.langs.length > 0) {
+    parts.push(`Language${scope.langs.length===1 ? "" : "s"}: ${scope.langs.join(", ")}`);
+  }
+
+  if (scope.schemas.length > 0) {
+    parts.push(`Schema${scope.schemas.length===1 ? "" : "s"}: ${scope.schemas.join(", ")}`);
+  }
+
+  return parts
+}
+
 function filter_scope (scope : Scope) {
   const filtered: Treebank[] = []
   sud.map (treebank => {
@@ -65,6 +79,7 @@ const Request: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
     const request : string | unknown = fileData.frontmatter?.request
     // const scope = fileData.frontmatter?.scope
     const scope = build_scope (fileData.frontmatter)
+
     var badge = ""
     switch(type) {
       case "valid": badge = "Validation Pebble"; break;
@@ -76,19 +91,49 @@ const Request: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
       return (
         <div>
           <h3 class="badge">{badge}</h3>
+          <ul>
+            {scope_to_strings(scope).map((s) => (<li>{s}</li>))}
+          </ul>
           <pre>
             <code class="language-grew">{request}</code>
           </pre>
-            Scope: {JSON.stringify (scope)}
-            <br/>
-            {filtered_treebanks.map((treebank) => (
-              <span>
-                <a class="tb" target="_blank" href={grew_match_path(treebank.id, request)}>
-                  {treebank.id}
-                </a>
-              </span>
-            ))}
-            <hr></hr>
+          <br />
+          {filtered_treebanks.length} treebank{filtered_treebanks.length>1 ? 's' : ''}
+          <br >
+          </br>
+          <br />
+          {filtered_treebanks.length > 5 ? (
+          <select
+            className="tb-dropdown"
+            defaultValue=""
+            {...({ onchange: "if(this.value) window.open(this.value,'_blank')" } as any)}
+          >
+            <option value="" disabled>Select treebank…</option>
+              {filtered_treebanks.map((treebank) => (
+              <option
+                key={treebank.id}
+                value={grew_match_path(treebank.id, request)}
+              >
+                {treebank.id}
+              </option>
+              ))}
+          </select>
+          ) : (
+          filtered_treebanks.map((treebank) => (
+            <span key={treebank.id}>
+              <a
+                className="tb"
+                target="_blank"
+                rel="noreferrer"
+                href={grew_match_path(treebank.id, request)}
+              >
+              {treebank.id}
+              </a>
+            </span>
+          ))
+        )}
+        
+        <hr></hr>
         </div>
       )
     } else {

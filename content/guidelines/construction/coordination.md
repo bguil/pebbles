@@ -8,7 +8,7 @@ tags:
 ---
 
 
-In SUD, the dependency relation between conjuncts or a coordination is [`conj:coord`](guidelines/deprel/conj_coord).
+In SUD, the dependency relation between conjuncts or a coordination is [`conj:coord`](guidelines/deprel/conj:coord).
 
 ## Chained conjuncts
 In SUD, when a coordination concerns more than two conjuncts, each conjunct is attached to the head of the previous one in a chain.
@@ -46,7 +46,7 @@ The conjunct of a coordination can itself be a coordination.
 Theoretically, this embedding can be nested indefinitely.
 In natural corpora, however, there is typically only one level of iteration.
 
-The [`conj:coord`](guidelines/deprel/conj_coord) label does not make a distinction between embedded relations and surface relations because they form a single chain.
+The [`conj:coord`](guidelines/deprel/conj:coord) label does not make a distinction between embedded relations and surface relations because they form a single chain.
 However, these relations can be distinguished with the use of the extension [``@emb``](guidelines/deep/emb) for embedded coordinations.
 
 <conll>

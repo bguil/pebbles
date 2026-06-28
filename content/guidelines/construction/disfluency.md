@@ -15,7 +15,7 @@ They may repeat a word until they find the right one, or they may try with one w
 
 ## Repetitions and reformulations
 
-To analyse repetition or reformulation, we use the relation [`conj:dicto`](guidelines/deprel/conj_dicto).
+To analyse repetition or reformulation, we use the relation [`conj:dicto`](guidelines/deprel/conj:dicto).
 
 <conll>
 # lang = French
@@ -40,7 +40,7 @@ To analyse repetition or reformulation, we use the relation [`conj:dicto`](guide
 </conll>
 	
 
-The [`conj:dicto`](guidelines/deprel/conj_dicto) relation applies also when the linked words are not the same.
+The [`conj:dicto`](guidelines/deprel/conj:dicto) relation applies also when the linked words are not the same.
 
 <conll>
 # lang = French
@@ -89,7 +89,7 @@ Sometimes speakers utter a half-finished construction. In this case, a word cann
 
 In this example, the construction *Je lis son le portrait de notre de votre héros* (English: *I'im reading his the portrayal of our of your hero*). This construction causes some issues because we cannot attach the word *notre* to its semantic head *héros* because of the presence of the second *de*.
 
-If the sentence was *portrait de notre votre héros* (English: *portrayal of our your hero*) we could use the [`conj:dicto`](../Syntactic_relations/conj/conj_dicto.md) relation to attach *votre* to *notre*.
+If the sentence was *portrait de notre votre héros* (English: *portrayal of our your hero*) we could use the [`conj:dicto`](guidelines/deprel/conj:dicto) relation to attach *votre* to *notre*.
 
 <conll>
 # lang = French
@@ -102,7 +102,7 @@ If the sentence was *portrait de notre votre héros* (English: *portrayal of our
 5	héros	héros	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=hero
 </conll>
 
-In these cases, we prefer to attach the two words *de* with a [`conj:dicto`](guidelines/deprel/conj_dicto) relation and link the word *notre* to the first *de* as an incomplete object - [`comp:obj@scrap`](guidelines/deep_features/scrap).
+In these cases, we prefer to attach the two words *de* with a [`conj:dicto`](guidelines/deprel/conj:dicto) relation and link the word *notre* to the first *de* as an incomplete object - [`comp:obj@scrap`](guidelines/deep_features/scrap).
 
 Below we can see an example when a speaker starts with one word, then decides it doesn't fit and searches for a more fitting word.
 

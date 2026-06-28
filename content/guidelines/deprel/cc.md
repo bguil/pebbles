@@ -11,7 +11,7 @@ tags:
 
 The `cc` relation is used between a conjunct and an associated coordinating conjunction.
 
-It is, in most of the cases, used with the relation [`conj:coord`](conj_coord).
+It is, in most of the cases, used with the relation [`conj:coord`](conj:coord).
 
 <conll>
 # lang = French

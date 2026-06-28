@@ -30,6 +30,6 @@ In that case, it may happen that a word cannot be attached to its head, because 
 
 In this example, the construction *Je lis son le portrait de notre de votre héros* (English: *I’m reading his the portrayal of our of your hero*).
 This construction causes some issues because the word *notre* cannot be attached to its semantic head *héros* because of the presence of the second *de*.
-For these cases, the two words *de* are linked with a [`conj:dicto`](guidelines/deprel/conj_dicto) relation and the word *notre* is linked to the first *de* as an incomplete object `comp:obj@scrap`.
+For these cases, the two words *de* are linked with a [`conj:dicto`](guidelines/deprel/conj:dicto) relation and the word *notre* is linked to the first *de* as an incomplete object `comp:obj@scrap`.
 
 

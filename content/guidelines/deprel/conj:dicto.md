@@ -9,7 +9,7 @@ tags:
  - deprel
 ---
 
-This relation is used to indicate difluencies when a speaker corrects his speech and to analyse reformulations. The relation `conj:coord` is used to link two different objects, two referants (ex: *Mary and John* are two different referents). The relation `conj:dicto` on the other hand is used to link two denotations of the same referent (ex: *the desert in Kenya, the Kenya desert* is denoting the same referant).
+This relation is used to indicate difluencies, such as when a speaker corrects their speech, and to analyse reformulations. The relation [`conj:coord`](./conj:coord.md) links two different objects, two referents (ex: *Mary and John* are two different referents). The relation `conj:dicto`, on the other hand, is used to link two denotations of the same referent (ex: *the desert in Kenya, the Kenya desert* is denoting the same referent).
 
 The ability of `conj:dicto` to analyse both disfluencies and reformulations is the reason why we don't use the the [`reparandum`](https://universaldependencies.org/u/dep/reparandum.html) relationship as used in UD.
 

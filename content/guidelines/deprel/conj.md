@@ -18,11 +18,11 @@ These three relations work as paradigmatic lists. That's why in SUD, we decided 
 
 
 In **SUD**, the basic `conj` relation is three different subtypes:
- - [`conj:dicto`](conj_dicto) for disfluencies when the speaker corrects his speech (parallel to `reparandum` in UD)
- - [`conj:coord`](conj_coord) for elements connected by a coordinating conjunction (parallel to `conj` in UD)
- - [`conj:appos`](conj_appos) for appositional modifiers that serve to define better the previous noun (parallel to `appos` in UD)
+ - [`conj:dicto`](conj:dicto) for disfluencies when the speaker corrects his speech (parallel to `reparandum` in UD)
+ - [`conj:coord`](conj:coord) for elements connected by a coordinating conjunction (parallel to `conj` in UD)
+ - [`conj:appos`](conj:appos) for appositional modifiers that serve to define better the previous noun (parallel to `appos` in UD)
 
-In the three case, the relation relates the first conjunct to the second one, the conjunction itself [`upos=CCONJ`](../upos/upos_CCONJ) is attached to the second conjunct with the relation [`cc`](cc).
+In the three cases, the relation relates the first conjunct to the second one, the conjunction itself [`upos=CCONJ`](../upos/upos_CCONJ) is attached to the second conjunct with the relation [`cc`](cc).
 
 > [!tips]
-> See also a global view of `conj` usage in the last release (2.17) in this [table](https://tables.grew.fr/?data=sud_deps/conj).
+> See also a global view of `conj` usage in the last SUD release in this [table](https://tables.grew.fr/?data=sud_deps/conj).

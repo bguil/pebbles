@@ -10,7 +10,7 @@ tags:
 
 # Causative subject
 
-The `subj@caus` relation is uesd for subject in causative construction (see [`@caus`](guidelines/deep_features/caus.md)).
+The `subj@caus` relation is used for subject in causative construction (see [`@caus`](guidelines/deep_features/caus.md)).
 
 <conll>
 # lang = French

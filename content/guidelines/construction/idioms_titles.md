@@ -20,16 +20,13 @@ Idioms and titles are annotated in the following way:
 
 By marking these categories with features rather than a `fixed` relation, we are able to preserve their internal syntactic structure.
 
-<grew>
+```grew
 pattern { X[Idiom] }
-</grew>
+```
 
-<grew>
+```grew
 pattern { X[Title] }
-</grew>
-
-> [!warning]- Changed since 2.8
-> Until SUD version 2.8, the feature `PhraseType=Idiom` was used for the head of idioms (now replaced by `Idiom=Yes`) and the feature `PhraseType=Title` was used for the head of titles (now replaced by `Title=Yes`)
+```
 
 ### With internal syntactic relations
 
@@ -115,3 +112,6 @@ When there is no clear internal syntactic structure, the relation `unk` is used.
 11	ici	ici	ADV	_	_	10	mod	_	Gloss=here
 </conll>
 
+
+> [!warning]- Changed since 2.8
+> Until SUD version 2.8, the feature `PhraseType=Idiom` was used for the head of idioms (now replaced by `Idiom=Yes`) and the feature `PhraseType=Title` was used for the head of titles (now replaced by `Title=Yes`)

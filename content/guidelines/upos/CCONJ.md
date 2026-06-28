@@ -1,5 +1,5 @@
 ---
-title: upos CCONJ
+title: CCONJ
 request: pattern { X[upos = CCONJ] }
 scope:
   schema: SUD

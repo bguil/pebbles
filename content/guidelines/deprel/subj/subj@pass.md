@@ -11,7 +11,7 @@ tags:
 # Passive subject
 
 The relation `subj@pass` is used to indicate a subject in a passive construction.
-This can be used for both standard passive constructions, and for mediopassive constructions (see [`@pass`](guidelines/deep_features/pass.md)).
+This can be used for both standard passive constructions, and for mediopassive constructions 
 
 <conll>
 # lang = English

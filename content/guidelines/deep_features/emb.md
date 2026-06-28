@@ -11,7 +11,7 @@ tags:
 
 # `@emb`: Embedded Coordination
 
-The deep feature `@emb` is used only with the relation [`conj:coord`](guidelines/deprel/conj_coord) to mark embedded coordination.
+The deep feature `@emb` is used only with the relation [`conj:coord`](guidelines/deprel/conj:coord) to mark embedded coordination.
 
 > [!tips] See [construction page about coordination](guidelines/construction/coordination) for more details.
 

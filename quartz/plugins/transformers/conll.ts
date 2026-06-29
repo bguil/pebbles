@@ -11,7 +11,7 @@ export const Conll: QuartzTransformerPlugin = () => {
           return (tree: Root) => {
             visit(tree, "element", (node: Element) => {
               if (node.tagName === "conll") {
-                const color = (node.properties.schema === "ud") ? "rgb(213, 232, 211)" : "#fdf8ed";
+                const color = (node.properties.schema === "ud") ? "rgb(216, 198, 214)" : "#fdf8ed";
                 const content = node.children
                 .filter((child: any) => child.type === "text")
                 .map((child: any) => child.value)
@@ -27,7 +27,7 @@ export const Conll: QuartzTransformerPlugin = () => {
                     type: "element",
                     tagName: "reactive-dep-tree",
                     properties: {
-                      "shown-metas": "lang,text_fr,text_en,pinyin",
+                      "shown-metas": "lang,text_fr,text_en,pinyin,sent_id,schema",
                       "hidden-features": "MISC.highlight,MISC.SpaceAfter,XPOS,MISC.AlignBegin,MISC.AlignEnd,MISC.wordform,MISC.Cxn,MISC.CxnElt",
                       "interactive": true,
                       "token-spacing": "20",

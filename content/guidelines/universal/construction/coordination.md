@@ -30,6 +30,7 @@ Note that it is different from UD annotation where all conjuncts of a coordinati
 
 <conll schema="ud">
 # lang = English
+# schema = UD
 1	John	John	PROPN	_	_	7	nsubj	_	_
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	Mary	Mary	PROPN	_	_	1	conj	_	_

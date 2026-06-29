@@ -14,7 +14,7 @@ Backchannels are short productions uttered by one participant while another spea
 
 To be recognized as backchannels, such utterances (i) must be addressed to the content of the other speaker’s contribution; (ii) must not be required or expected by the preceding turn (e.g. answers to wh- and polar questions are expected and required, so they cannot be considered backchannels); (iii) must not require a reaction from the main speaker.
 
-The backchannel feature is encoded as such: `Backchannel: ⟨sent_id⟩::⟨tok_id⟩`, on the root of the sentence where the backchannel occurs.
+The backchannel feature is encoded as such: `Backchannel = ⟨sent_id⟩::⟨tok_id⟩`, on the root of the sentence where the backchannel occurs.
 
 <conll>
 # lang = French
@@ -42,7 +42,7 @@ The backchannel feature is encoded as such: `Backchannel: ⟨sent_id⟩::⟨tok_
 # speaker = L2
 # text = mh, mh.
 # text_en = um, um.
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=Rhap_D0009-205::11|SpaceAfter=No
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=Rhap_D0009-205::11|SpaceAfter=No|highlight=red
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	mh	mh	INTJ	_	_	1	conj:dicto	_	_
 4	.	.	PUNCT	_	_	1	punct	_	_

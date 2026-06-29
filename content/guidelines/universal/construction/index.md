@@ -1,5 +1,5 @@
 ---
-title: Constuctions
+title: Constructions
 scope:
   schema: SUD
 type: construction

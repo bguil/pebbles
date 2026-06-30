@@ -1,0 +1,15 @@
+---
+title: dependency based view
+request: pattern { X -[type=attach]-> Y }
+scope:
+  schema: SUD
+type: doc
+tags:
+  - spoken
+  - backchannel
+  - coconstruction
+  - dependency_based
+  - speaker_based
+---
+
+

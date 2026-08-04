@@ -2,6 +2,8 @@
 title: comp main rel
 request: pattern { X -[1=comp]-> Y }
 type: doc
+scope:
+  schema: SUD
 tags:
  - deprel
 ---

@@ -94,7 +94,7 @@ Here is a long sentence with two backchannels, each with a different `tok_id`.
 28	de	de	ADP	_	_	27	udep	_	AlignBegin=134149|AlignEnd=134249
 29	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	AlignBegin=134149|AlignEnd=134249
 30	plan	plan	NOUN	_	_	28	comp:obj	_	AlignBegin=134249|AlignEnd=134469|Gender[lex]=Masc|Number[ctxt]=Sing
-31	banlieue	banlieue	NOUN	_	_	30	mod@appos	_	AlignBegin=134469|AlignEnd=134823|Gender[lex]=Fem|Number[ctxt]=Sing
+31	banlieue	banlieue	NOUN	_	_	30	mod	_	AlignBegin=134469|AlignEnd=134823|Gender[lex]=Fem|Number[ctxt]=Sing
 32	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	AlignBegin=134823|AlignEnd=134938|HasSpokenGender=OnlySingExceptWithLiaison|Overlap=Rhap_D0002-42
 33	busing	busing	NOUN	_	_	23	dislocated:subj	_	AlignBegin=134938|AlignEnd=135379|Gender[lex]=Masc|Number[ctxt]=Sing|Overlap=Rhap_D0002-44|SpaceAfter=No
 34	.	.	PUNCT	_	_	10	punct	_	AlignBegin=135379|AlignEnd=135379|Overlap=Rhap_D0002-37ter

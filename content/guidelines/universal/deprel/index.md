@@ -11,8 +11,14 @@ The schema below shows the __main SUD relations__ `subj`, `comp` and `mod` and t
 
 ![SUD deprel taxonomie](/static/images/drawio/SUD_deprel_taxo.png)
 
-These relations cover:
+These relations cover most of the exiting extentions in native SUD treebanks.
+
+
  - 4 French SUD native: [Grew-match](https://universal.grew.fr/?custom=6a3cea4022e97)
+
+
+
+
  - In SUD English treebanks, converted from UD ([Grew-match](https://universal.grew.fr/?custom=6a3cf3fe96258)) a few other deep extensions appear (`@desc`, `@npmod`, `@poss`, `@tmod`and `@unmarked`: [Grew-match](https://universal.grew.fr/?custom=6a3cf64743620)).
 
 

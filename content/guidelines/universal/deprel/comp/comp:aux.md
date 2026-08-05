@@ -12,9 +12,9 @@ tags:
 
 The relation `comp:aux` is used for the argument of auxiliaries.
 It can be used with the following deep features:
- - [`@tense`](guidelines/deep_features/tense.md)
- - [`@pass`](guidelines/deep_features/pass.md)
- - [`@caus`](guidelines/deep_features/caus.md)
+ - [`@tense`](guidelines/universal/deprel/deep_features/tense.md)
+ - [`@pass`](guidelines/universal/deprel/deep_features/pass.md)
+ - [`@caus`](guidelines/universal/deprel/deep_features/caus.md)
 
 <conll>
 # lang = English

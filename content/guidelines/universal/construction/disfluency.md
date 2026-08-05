@@ -63,10 +63,6 @@ The [`conj:dicto`](guidelines/deprel/conj:dicto) relation applies also when the 
 15	produits	produit	NOUN	_	Gender=Masc|Number=Plur	14	comp:obj	_	Gloss=products
 </conll>
 
-<grew corpus="SUD_French-Rhapsodie@latest">
-pattern { X -[conj:dicto]-> Y }
-</grew >
-
 ## Unfinished constructions
 
 Sometimes speakers utter a half-finished construction. In this case, a word cannot be attached to its head, because the speaker decided not to say it.
